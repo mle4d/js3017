@@ -1,9 +1,6 @@
 div:nth-child(3n+0) {
   color: blue;
 }
-div:nth-child(2n+0) {
-  color: red;
-}
 div:nth-child(7n+0) {
   color: green;
 }

@@ -11,7 +11,7 @@
   function strip(bookName) {
   return bookName.replace(/^(a |the |an )/i, '').trim();
 }
-
+const sortedBooks = books.sort((a, b) => strip(a) > strip(b) ? 1 : -1);
 </script>
 </body>
 </html>

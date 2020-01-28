@@ -1,21 +1,27 @@
-li:nth-child(3n+0) {
+div:nth-child(3n+0) {
   color: blue;
 }
-li:nth-child(2n+0) {
+div:nth-child(2n+0) {
   color: red;
 }
-li:nth-child(7n+0) {
+div:nth-child(7n+0) {
   color: green;
 }
-li:nth-child(5n+0) {
+div:nth-child(5n+0) {
   color: orange;
 }
-li:nth-child(4n+0) {
+div:nth-child(4n+0) {
   color: purple;
 }
-li:nth-child(11n+0) {
+div:nth-child(11n+0) {
   color: pink;
 }
-li:nth-child(6n+0) {
+div:nth-child(6n+0) {
   color: rgb(0, 255, 221);
+}
+div:nth-child(2n+0) {
+  position: fixed;
+  left: 46%;
+  color: red;
+  background-color: #aaaaaa;
 }

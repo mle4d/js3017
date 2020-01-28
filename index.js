@@ -36,11 +36,7 @@ const sortedBooks = books.sort((a, b) => strip(a) > strip(b) ? 1 : -1);
 
 document.querySelector('#books').innerHTML =
   sortedBooks
-    .map(book => `<li id="book">${book}</li>`)
+    .map(book => `<div id="book">${book}</div>`)
     .join('');
 
     console.log(sortedBooks);
-
-    var colors = ['blue', 'green', 'red'];
-var random_color = colors[Math.floor(Math.random() * colors.length)];
-document.getElementById('book').style.color = random_color;

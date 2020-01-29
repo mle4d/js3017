@@ -36,7 +36,9 @@ const sortedBooks = books.sort((a, b) => strip(a) > strip(b) ? 1 : -1);
 
 document.querySelector('#books').innerHTML =
   sortedBooks
-    .map(book => `<div id="book">${book}</div>`)
+    .map(book => `<div id="book"><p>${book}</p></div>`)
     .join('');
 
     console.log(sortedBooks);
+
+  

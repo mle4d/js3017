@@ -3,9 +3,9 @@
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  border: solid blue 4px;
+  border: solid blue 1px;
   width: 100%;
-  height: 32%;
+  height: 32.4%;
 }
 #book2 {
   display: flex;

@@ -3,7 +3,7 @@
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
-  border: solid green 4px;
+  border: solid green 1px;
   width: 100%;
   height: 32%;
 }

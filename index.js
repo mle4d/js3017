@@ -32,13 +32,19 @@ const books = ['The Pillars of the Earth','	Number the Stars',
   function strip(bookName) {
   return bookName.replace(/^(a |the |an )/i, '').trim();
 }
-const sortedBooks = books.sort((a, b) => strip(a) > strip(b) ? 1 : -1);
+const shelf2 = books.sort((a, b) => strip(a) > strip(b) ? 1 : -1);
 
 document.querySelector('#books').innerHTML =
-  sortedBooks
+  shelf2
     .map(book => `<div id="book"><p>${book}</p></div>`)
     .join('');
 
-    console.log(sortedBooks);
+    console.log(shelf2);
 
-  
+    const shelf1 = shelf2.splice(0,33);
+
+    console.log(shelf1);
+
+    const shelf3 = shelf2.splice(33,66);
+
+    console.log(shelf3);

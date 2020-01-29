@@ -46,15 +46,15 @@ const shelf3 = shelf2.splice(33,66);
 console.log(shelf3);
 document.querySelector('.shelf1').innerHTML =
   shelf1
-    .map(book => `<p>${book}</p>`)
+    .map(book => `<div id="book1"><p id="titles1">${book}</p></div>`)
     .join('');
 
 document.querySelector('.shelf3').innerHTML =
   shelf3
-    .map(book => `<p>${book}</p>`)
+    .map(book => `<div id="book3"><p id="titles3">${book}</p></div>`)
     .join('');
 
 document.querySelector('.shelf2').innerHTML =
   shelf2
-    .map(book => `<p>${book}</p>`)
+    .map(book => `<div id="book2"><p id="titles2">${book}</p></div>`)
     .join('');

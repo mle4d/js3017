@@ -1,6 +1,8 @@
-
+body {
+  overflow: hidden;
+}
 .bookshelf{ 
-  width: 97vw;
+  width: 98vw;
   height: 95vh;
   background-color: pink;
   border: solid black 4px;

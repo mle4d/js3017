@@ -34,17 +34,27 @@ const books = ['The Pillars of the Earth','	Number the Stars',
 }
 const shelf2 = books.sort((a, b) => strip(a) > strip(b) ? 1 : -1);
 
-document.querySelector('#books').innerHTML =
-  shelf2
+
+console.log(shelf2);
+
+const shelf1 = shelf2.splice(0,33);
+
+console.log(shelf1);
+
+const shelf3 = shelf2.splice(33,66);
+
+console.log(shelf3);
+document.querySelector('#shelf1').innerHTML =
+  shelf1
     .map(book => `<div id="book"><p>${book}</p></div>`)
     .join('');
 
-    console.log(shelf2);
+document.querySelector('#shelf3').innerHTML =
+  shelf3
+    .map(book => `<div id="book"><p>${book}</p></div>`)
+    .join('');
 
-    const shelf1 = shelf2.splice(0,33);
-
-    console.log(shelf1);
-
-    const shelf3 = shelf2.splice(33,66);
-
-    console.log(shelf3);
+document.querySelector('#shelf2').innerHTML =
+  shelf2
+    .map(book => `<div id="book"><p>${book}</p></div>`)
+    .join('');

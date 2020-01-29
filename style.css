@@ -1,24 +1,11 @@
-div:nth-child(3n+0) {
-  color: blue;
-}
-div:nth-child(7n+0) {
-  color: green;
-}
-div:nth-child(5n+0) {
-  color: orange;
-}
-div:nth-child(4n+0) {
-  color: purple;
-}
-div:nth-child(11n+0) {
-  color: pink;
-}
-div:nth-child(6n+0) {
-  color: rgb(0, 255, 221);
-}
-div:nth-child(2n+0) {
-  position: fixed;
-  left: 46%;
-  color: red;
-  background-color: #aaaaaa;
+
+.bookshelf{ 
+  width: 97vw;
+  height: 95vh;
+  background-color: pink;
+  border: solid black 4px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start
 }

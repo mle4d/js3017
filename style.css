@@ -6,7 +6,7 @@ body {
   overflow: hidden;
 }
 .bookshelf{ 
-  width: 96vw;
+  width: 97vw;
   height: 98vh;
   display: flex;
   flex-direction: column;

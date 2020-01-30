@@ -1,14 +1,15 @@
 .shelf2 {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  background: #9984A6;
   background: -moz-linear-gradient(top, #9984A6 0%, #B9A4DE 50%, #D1B0FF 100%);
   background: -webkit-linear-gradient(top, #9984A6 0%, #B9A4DE 50%, #D1B0FF 100%);
   background: linear-gradient(to bottom, #9984A6 0%, #B9A4DE 50%, #D1B0FF 100%);
   border-bottom: solid #B9A4DE 15px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
   width: 100%;
   height: 30%;
+  align-self: flex-start;
+  align-content: flex-start;
 }
 #book2 {
   display: flex;
@@ -16,18 +17,21 @@
   flex-wrap: nowrap;
   flex-shrink: 1;
   flex-grow: 1;
+  text-align: center;
   width: 2%;
-  height: 100%;
+  height: 90%;
   padding: 0px;
   margin: 0px;
   border: solid white 1px;
-  align-self: baseline;
+  align-self: flex-end;
 }
 #titles2 {
-  width: 170px;
+  width: 150px;
   height: 170px;
-  font-size: 13px;
-  transform: rotate(-90deg);
+  font-size: 12px;
+  transform: rotate(90deg);
   overflow: hidden;
   text-overflow: ellipsis;
+  align-self: flex-end;
+  margin-bottom: 16px;
 }

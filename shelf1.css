@@ -3,7 +3,7 @@
   background: -moz-linear-gradient(top, #9984A6 0%, #B9A4DE 50%, #D1B0FF 100%);
   background: -webkit-linear-gradient(top, #9984A6 0%, #B9A4DE 50%, #D1B0FF 100%);
   background: linear-gradient(to bottom, #9984A6 0%, #B9A4DE 50%, #D1B0FF 100%);
-  border-bottom: solid #B9A4DE 15px;
+  border-bottom: solid #D1B0FF 15px;
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
@@ -19,11 +19,11 @@
   flex-shrink: 1;
   flex-grow: 1;
   text-align: center;
-  width: 2%;
+  width: 10px;
   height: 90%;
   padding: 0px;
   margin: 0px;
-  border: solid white 1px;
+  border-radius: 5px;
   align-self: flex-end;
 }
 #titles1 {
@@ -36,16 +36,4 @@
   align-self: flex-end;
   margin-bottom: -6px;
 }
-#book1:nth-child(2) {
-  width: 1%;
-  height: 70%;
-  text-align: center;
-  background-image: url(assets/spine\ design.png);
-  background-position: top;
-  background-size: 90%; 
-  background-repeat: no-repeat;
-  background-color: red;
-}
-#book1:nth-child(2) #titles1 {
- margin-bottom: -40px;
-}
+

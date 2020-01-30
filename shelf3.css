@@ -1,11 +1,14 @@
 .shelf3 {
-  /* color: yellow; */
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  border: solid yellow 1px;
+  background: #9984A6;
+  background: -moz-linear-gradient(top, #9984A6 0%, #B9A4DE 50%, #D1B0FF 100%);
+  background: -webkit-linear-gradient(top, #9984A6 0%, #B9A4DE 50%, #D1B0FF 100%);
+  background: linear-gradient(to bottom, #9984A6 0%, #B9A4DE 50%, #D1B0FF 100%);
+  border-bottom: solid #d1b0ff 5px;
   width: 100%;
-  height: 34.5%;
+  height: 33%;
 }
 #book3 {
   display: flex;

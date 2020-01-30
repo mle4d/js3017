@@ -1,9 +1,13 @@
 .shelf1 {
   color: green;
+  background: #9984A6;
+  background: -moz-linear-gradient(top, #9984A6 0%, #B9A4DE 50%, #D1B0FF 100%);
+  background: -webkit-linear-gradient(top, #9984A6 0%, #B9A4DE 50%, #D1B0FF 100%);
+  background: linear-gradient(to bottom, #9984A6 0%, #B9A4DE 50%, #D1B0FF 100%);
+  border-bottom: solid #d1b0ff 5px;
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
-  border: solid green 1px;
   width: 100%;
   height: 32%;
   align-self: flex-start;

@@ -1,0 +1,221 @@
+/* book one */
+#book1:nth-child(1) {
+  width: 2.5%;
+  height: 85%;
+  text-align: center;
+  background-image: url(assets/minttab.png);
+  background-position: top;
+  background-size: 90%; 
+  background-repeat: no-repeat;
+  background-color: #ffd9f7;
+}
+#book1:nth-child(1) #titles1 {
+}
+/* book two */
+#book1:nth-child(2) {
+  width: 1%;
+  height: 70%;
+  text-align: left;
+  background-image: url(assets/greenbands.png);
+  background-position: bottom;
+  background-size: 120%; 
+  background-repeat: no-repeat;
+  background-color: #fcd9f8;
+}
+#book1:nth-child(2) #titles1 {
+ margin-bottom: -40px;
+}
+/* book3 */
+#book1:nth-child(3) {
+  width: 1%;
+  height: 80%;
+  text-align: left;
+  background-image: url();
+  background-position: top;
+  background-size: 90%; 
+  background-repeat: no-repeat;
+  background-color: #f8d8f9;
+}
+#book1:nth-child(3) #titles1 {
+ margin-bottom: -40px;
+}
+/* book4 */
+#book1:nth-child(4) {
+  width: 2%;
+  height: 70%;
+  text-align: left;
+  background-image: url(assets/perriwinklebars.png);
+  background-position: center;
+  background-size: 100%; 
+  background-repeat: no-repeat;
+  background-color: #f5d6f9;
+}
+#book1:nth-child(4) #titles1 {
+ margin-bottom: -20px;
+ margin-right: -5px;
+ text-align: center;
+}
+#book1:nth-child(5) {
+  width: 1%;
+  height: 75%;
+  text-align: center;
+  background-image: url();
+  background-position: top;
+  background-size: 90%; 
+  background-repeat: no-repeat;
+  background-color: #f2d7fb;
+}
+#book1:nth-child(5) #titles1 {
+ margin-bottom: -30px;
+}
+#book1:nth-child(6) {
+  width: 1%;
+  height: 83%;
+  text-align: center;
+  background-image: url(assets/bluebanner.png);
+  background-position: center;
+  background-size: 100%; 
+  background-repeat: no-repeat;
+  background-color: #efd6fc;
+}
+#book1:nth-child(6) #titles1 {
+ /* margin-bottom: -40px; */
+}
+#book1:nth-child(7) {
+  width: 10%;
+  height: 10%;
+  text-align: center;
+  background-image: url();
+  background-position: top;
+  background-size: 90%; 
+  background-repeat: no-repeat;
+  background-color: #ebd5fc;
+}
+#book1:nth-child(7) #titles1 {
+  transform: rotate(0deg);
+  margin-top: 5px;
+}
+#book1:nth-child(8) {
+  width: 10%;
+  height: 12%;
+  text-align: right;
+  background-image: url(assets/pinkbanner.png);
+  background-position: right;
+  background-size: 60%; 
+  background-repeat: no-repeat;
+  background-color: #e8d4fd;
+  margin-bottom: 20px;
+  margin-left: -140px;
+}
+#book1:nth-child(8) #titles1 {
+ transform: rotate(0deg);
+  margin-top: 5px;
+}
+#book1:nth-child(9) {
+  width: 10%;
+  height: 10%;
+  text-align: center;
+  background-image: url();
+  background-position: top;
+  background-size: 90%; 
+  background-repeat: no-repeat;
+  background-color: #e6d3fe;
+  margin-bottom: 44px;
+  margin-left: -144px;
+}
+#book1:nth-child(9) #titles1 {
+  transform: rotate(0deg);
+  margin-top: 5px;
+}
+#book1:nth-child(10) {
+  width: 1%;
+  height: 73%;
+  text-align: left;
+  background-image: url(assets/yellowbanner.png);
+  background-position: top;
+  background-size: 90%; 
+  background-repeat: no-repeat;
+  background-color: #e3d3ff;
+}
+#book1:nth-child(10) #titles1 {
+ margin-bottom: -30px;
+}
+#book1:nth-child(11) {
+  width: .7%;
+  height: 84%;
+  text-align: center;
+  background-image: url();
+  background-position: top;
+  background-size: 90%; 
+  background-repeat: no-repeat;
+  background-color: #ffdcf1;
+}
+#book1:nth-child(11) #titles1 {
+  margin-bottom: -15px;
+}
+#book1:nth-child(12) {
+  width: 2.3%;
+  height: 80%;
+  text-align: left;
+  background-image: url(assets/mintarrows.png);
+  background-position: center;
+  background-size: 100%; 
+  background-repeat: no-repeat;
+  background-color: #fbdef2;
+}
+#book1:nth-child(12) #titles1 {
+ margin-bottom: -20px;
+}
+#book1:nth-child(13) {
+  width: .6%;
+  height: 70%;
+  text-align: center;
+  background-image: url(assets/purplebars.png);
+  background-position: top;
+  background-size: 80%; 
+  background-repeat: no-repeat;
+  background-color: #f6def2;
+}
+#book1:nth-child(13) #titles1 {
+ margin-bottom: -40px;
+}
+#book1:nth-child(14) {
+  width: 1%;
+  height: 88%;
+  text-align: left;
+  background-image: url();
+  background-position: top;
+  background-size: 90%; 
+  background-repeat: no-repeat;
+  background-color: #f3daf5;
+}
+#book1:nth-child(14) #titles1 {
+ margin-bottom: -40px;
+}
+#book1:nth-child(15) {
+  width: 1%;
+  height: 65%;
+  text-align: left;
+  background-image: url();
+  background-position: top;
+  background-size: 90%; 
+  background-repeat: no-repeat;
+  background-color: #f0dbf8;
+}
+#book1:nth-child(15) #titles1 {
+ margin-bottom: -60px;
+}
+#book1:nth-child(16) {
+  width: .1%;
+  height: 70%;
+  text-align: center;
+  background-image: url(assets/peacharrows.png);
+  background-position: center;
+  background-size: 100%; 
+  background-repeat: repeat;
+  background-color: #eddaf9;
+}
+#book1:nth-child(16) #titles1 {
+ margin-bottom: -40px;
+ margin-top: -21px;
+}

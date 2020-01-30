@@ -36,16 +36,16 @@
   align-self: flex-end;
   margin-bottom: -6px;
 }
-/* #book1:nth-child(2) #titles1 {
-  color: white;
-  background-color: red;
-} */
 #book1:nth-child(2) {
-  width: 2%;
+  width: 1%;
   height: 70%;
   text-align: center;
   background-image: url(assets/spine\ design.png);
-  background-position: center;
+  background-position: top;
   background-size: 90%; 
   background-repeat: no-repeat;
+  background-color: red;
+}
+#book1:nth-child(2) #titles1 {
+ margin-bottom: -40px;
 }

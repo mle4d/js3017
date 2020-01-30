@@ -1,5 +1,4 @@
 .shelf2 {
-  /* color: blue; */
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -27,7 +26,4 @@
   transform: rotate(-90deg);
   overflow: hidden;
   text-overflow: ellipsis;
-}
-#zzz:nth-child(2) {
-  color: red;
 }

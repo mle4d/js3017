@@ -1,5 +1,5 @@
 .shelf3 {
-  color: yellow;
+  /* color: yellow; */
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -29,3 +29,7 @@
   text-overflow: ellipsis;
   text-align: left;
 }
+#titles3:nth-child(2) {
+  color: blue;
+}
+

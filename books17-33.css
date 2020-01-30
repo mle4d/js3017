@@ -215,10 +215,10 @@
   width: 1%;
   height: 75%;
   text-align: left;
-  background-image: url();
-  background-position: top;
+  background-image: url(assets/perriwinklebars.png);
+  background-position: center;
   background-size: 90%; 
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-color: #dcdbfe;
 }
 #book1:nth-child(30) #titles1 {

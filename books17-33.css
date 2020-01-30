@@ -1,0 +1,283 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Bangers|Caveat|Indie+Flower|Lobster|Muli|Permanent+Marker|Righteous|Six+Caps|Special+Elite|Yanone+Kaffeesatz|Zhi+Mang+Xing&display=swap');
+/* book one */
+#book1:nth-child(17) {
+  width: 2.5%;
+  height: 85%;
+  text-align: center;
+  background-image: url(assets/minttab.png);
+  background-position: top;
+  background-size: 90%; 
+  background-repeat: no-repeat;
+  background-color: #e9d9fa;
+}
+#book1:nth-child(17) #titles1 {
+  font-family: 'Anton', cursive;
+  font-size: 14px;
+  color: rgb(45, 28, 85);
+}
+/* book two */
+#book1:nth-child(18) {
+  width: 1%;
+  height: 70%;
+  text-align: left;
+  background-image: url(assets/greenbands.png);
+  background-position: bottom;
+  background-size: 120%; 
+  background-repeat: no-repeat;
+  background-color: #e5d8fc;
+}
+#book1:nth-child(18) #titles1 {
+ margin-bottom: -40px;
+ font-family: 'Yanone Kaffeesatz', sans-serif;
+ font-size: 21px;
+ color: rgb(52, 180, 202);
+}
+/* book3 */
+#book1:nth-child(19) {
+  width: 1%;
+  height: 80%;
+  text-align: left;
+  background-image: url();
+  background-position: top;
+  background-size: 90%; 
+  background-repeat: no-repeat;
+  background-color: #e2d9fd;
+}
+#book1:nth-child(19) #titles1 {
+ margin-bottom: -40px;
+ font-family: 'Indie Flower', cursive;
+ font-size: 17px;
+ color: rgb(15, 1, 15);
+}
+/* book4 */
+#book1:nth-child(20) {
+  width: 2%;
+  height: 70%;
+  text-align: left;
+  background-image: url(assets/perriwinklebars.png);
+  background-position: center;
+  background-size: 100%; 
+  background-repeat: no-repeat;
+  background-color: #e0d7fe;
+}
+#book1:nth-child(20) #titles1 {
+  font-family: 'Special Elite', cursive;
+  font-size: 13px;
+  color: rgb(15, 1, 15);
+ margin-bottom: 2px;
+ margin-right: -13px;
+ text-align: center;
+}
+#book1:nth-child(21) {
+  width: 1%;
+  height: 75%;
+  text-align: center;
+  background-image: url();
+  background-position: top;
+  background-size: 90%; 
+  background-repeat: no-repeat;
+  background-color: #ffe0eb;
+}
+#book1:nth-child(21) #titles1 {
+ font-family: 'Righteous', cursive;
+ font-size: 13px;
+ color: rgb(15, 1, 15);
+ margin-bottom: -30px;
+}
+#book1:nth-child(22) {
+  width: 1%;
+  height: 83%;
+  text-align: left;
+  background-image: url(assets/bluebanner.png);
+  background-position: center;
+  background-size: 100%; 
+  background-repeat: no-repeat;
+  background-color: #fae1ed;
+}
+#book1:nth-child(22) #titles1 {
+  font-family: 'Six Caps', sans-serif;
+  font-size: 30px;
+  color: rgb(15, 1, 15);
+  margin-bottom: -55px;
+}
+#book1:nth-child(23) {
+  width: 1%;
+  height: 83%;
+  text-align: center;
+  background-image: url();
+  background-position: top;
+  background-size: 90%; 
+  background-repeat: no-repeat;
+  background-color: #f6e1ee;
+}
+#book1:nth-child(23) #titles1 {
+ margin-top: 5px;
+ font-family: 'Muli', sans-serif;
+ font-size: 12px;
+ color: rgb(15, 1, 15);
+}
+#book1:nth-child(24) {
+  width: 1%;
+  height: 83%;
+  text-align: right;
+  background-image: url(assets/pinkbanner.png);
+  background-position: right;
+  background-size: 60%; 
+  background-repeat: no-repeat;
+  background-color: #f2ddf2;
+  /* margin-bottom: 20px;
+  margin-left: -140px; */
+}
+#book1:nth-child(24) #titles1 {
+ /* margin-top: 1px; */
+ font-family: 'Yanone Kaffeesatz', sans-serif;
+ font-size: 17px;
+ color: rgb(15, 1, 15);
+}
+#book1:nth-child(25) {
+  width: 1%;
+  height: 83%;
+  text-align: center;
+  background-image: url();
+  background-position: top;
+  background-size: 90%; 
+  background-repeat: no-repeat;
+  background-color: #eee0fa;
+  /* margin-bottom: 44px;
+  margin-left: -144px; */
+}
+#book1:nth-child(25) #titles1 {
+  font-family: 'Anton', sans-serif;
+  font-size: 15px;
+  color: rgb(15, 1, 15);
+}
+#book1:nth-child(26) {
+  width: 1%;
+  height: 73%;
+  text-align: left;
+  background-image: url(assets/yellowbanner.png);
+  background-position: top;
+  background-size: 90%; 
+  background-repeat: no-repeat;
+  background-color: #ebdef7;
+}
+#book1:nth-child(26) #titles1 {
+  font-family: 'Lobster', cursive;
+  font-size: 12px;
+  color: rgb(15, 1, 15);
+  margin-bottom: -30px;
+}
+#book1:nth-child(27) {
+  width: .7%;
+  height: 84%;
+  text-align: left;
+  background-image: url();
+  background-position: top;
+  background-size: 90%; 
+  background-repeat: no-repeat;
+  background-color: #e7ddf8;
+}
+#book1:nth-child(27) #titles1 {
+  font-family: 'Zhi Mang Xing', cursive;
+  font-size: 19px;
+  color: rgb(15, 1, 15);
+  margin-bottom: -30px;
+}
+#book1:nth-child(28) {
+  width: 1.8%;
+  height: 80%;
+  text-align: left;
+  background-image: url(assets/mintarrows.png);
+  background-position: center;
+  background-size: 100%; 
+  background-repeat: no-repeat;
+  background-color: #e3dcfa;
+}
+#book1:nth-child(28) #titles1 {
+ font-family: 'Righteous', cursive;
+ font-size: 12px;
+ color: rgb(15, 1, 15);
+ margin-bottom: -30px;
+}
+#book1:nth-child(29) {
+  width: .6%;
+  height: 70%;
+  text-align: left;
+  background-image: url(assets/purplebars.png);
+  background-position: top;
+  background-size: 80%; 
+  background-repeat: no-repeat;
+  background-color: #dedefb;
+}
+#book1:nth-child(29) #titles1 {
+ font-family: 'Permanent Marker', cursive;
+ font-size: 16px;
+ color: rgb(15, 1, 15);
+ margin-bottom: -50px;
+}
+#book1:nth-child(30) {
+  width: 1%;
+  height: 88%;
+  text-align: left;
+  background-image: url();
+  background-position: top;
+  background-size: 90%; 
+  background-repeat: no-repeat;
+  background-color: #dcdbfe;
+}
+#book1:nth-child(30) #titles1 {
+ font-family: 'Special Elite', cursive;
+ font-size: 15px;
+ color: rgb(15, 1, 15);
+ margin-bottom: -40px;
+}
+#book1:nth-child(31) {
+  width: 1%;
+  height: 65%;
+  text-align: left;
+  background-image: url();
+  background-position: top;
+  background-size: 90%; 
+  background-repeat: no-repeat;
+  background-color: #ffe3e6;
+}
+#book1:nth-child(31) #titles1 {
+ font-family: 'Caveat', cursive;
+ font-size: 15px;
+ color: rgb(252, 248, 252);
+ margin-bottom: -70px;
+}
+#book1:nth-child(32) {
+  width: .1%;
+  height: 70%;
+  text-align: center;
+  background-image: url(assets/peacharrows.png);
+  background-position: center;
+  background-size: 100%; 
+  background-repeat: repeat;
+  background-color: #fae5e8;
+}
+#book1:nth-child(32) #titles1 {
+ margin-bottom: -40px;
+ margin-top: -21px;
+ font-family: 'Righteous', cursive;
+ font-size: 20px;
+ color: #a5a1a4;
+}
+#book1:nth-child(33) {
+  width: .1%;
+  height: 70%;
+  text-align: center;
+  background-image: url(assets/peacharrows.png);
+  background-position: center;
+  background-size: 100%; 
+  background-repeat: repeat;
+  background-color: #f4e5e8;
+}
+#book1:nth-child(33) #titles1 {
+ margin-bottom: -40px;
+ margin-top: -21px;
+ font-family: 'Righteous', cursive;
+ font-size: 20px;
+ color: #a5a1a4;
+}

@@ -17,11 +17,21 @@ body {
 }
 .troll {
   background-image: url(assets/troll.png);
-  background-size: 50%;
+  background-size: 40%;
   background-repeat: no-repeat;
   width: 100px;
   height: 100px;
   position: fixed;
-  top: 7%;
-  left: 25%;
+  top: 10%;
+  left: 24%;
+}
+.polaroid {
+  background-image: url(assets/polaroid.png);
+  background-size: 70%;
+  background-repeat: no-repeat;
+  width: 100px;
+  height: 100px;
+  position: fixed;
+  top: 8%;
+  left: 28%;
 }

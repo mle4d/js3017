@@ -15,3 +15,13 @@ body {
   align-content: flex-start;
   align-self: flex-start;
 }
+.troll {
+  background-image: url(assets/troll.png);
+  background-size: 50%;
+  background-repeat: no-repeat;
+  width: 100px;
+  height: 100px;
+  position: fixed;
+  top: 7%;
+  left: 25%;
+}

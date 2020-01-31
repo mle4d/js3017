@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Anton|Bangers|Caveat|Indie+Flower|Lobster|Muli|Permanent+Marker|Righteous|Six+Caps|Special+Elite|Yanone+Kaffeesatz|Zhi+Mang+Xing&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Anton|Bangers|Caveat|Indie+Flower|Lobster|Muli|Permanent+Marker|Righteous|Six+Caps|Special+Elite|Zhi+Mang+Xing&display=swap');
 /* book one */
 #book1:nth-child(17) {
   width: 1%;
@@ -27,9 +27,8 @@
   background-color: #e5d8fc;
 }
 #book1:nth-child(18) #titles1 {
- margin-bottom: -80px;
- font-family: 'Yanone Kaffeesatz', sans-serif;
- font-size: 22px;
+ margin-bottom: -70px;
+ font-size: 16px;
  color: #f0f8d2;
 }
 /* book3 */
@@ -127,8 +126,7 @@
   background-color: #f2ddf2;
 }
 #book1:nth-child(24) #titles1 {
- font-family: 'Yanone Kaffeesatz', sans-serif;
- font-size: 17px;
+ font-size: 14px;
  color: #d8f4eb;
 }
 #book1:nth-child(25) {

@@ -13,7 +13,7 @@
 #book1:nth-child(1) #titles1 {
   font-family: 'Anton', cursive;
   font-size: 14px;
-  color: rgb(45, 28, 85);
+  color: #c0fff8;
 }
 /* book two */
 #book1:nth-child(2) {
@@ -30,7 +30,7 @@
  margin-bottom: -40px;
  font-family: 'Yanone Kaffeesatz', sans-serif;
  font-size: 21px;
- color: rgb(52, 180, 202);
+ color: #c6fef2;
 }
 /* book3 */
 #book1:nth-child(3) {
@@ -47,7 +47,7 @@
  margin-bottom: -40px;
  font-family: 'Indie Flower', cursive;
  font-size: 17px;
- color: rgb(15, 1, 15);
+ color: #cdfeed;
 }
 /* book4 */
 #book1:nth-child(4) {
@@ -63,7 +63,7 @@
 #book1:nth-child(4) #titles1 {
   font-family: 'Special Elite', cursive;
   font-size: 13px;
-  color: rgb(15, 1, 15);
+  color: #d3fde7;
  margin-bottom: 2px;
  margin-right: -13px;
  text-align: center;
@@ -81,7 +81,7 @@
 #book1:nth-child(5) #titles1 {
  font-family: 'Righteous', cursive;
  font-size: 13px;
- color: rgb(15, 1, 15);
+ color: #dafde1;
  margin-bottom: -30px;
 }
 #book1:nth-child(6) {
@@ -97,7 +97,7 @@
 #book1:nth-child(6) #titles1 {
   font-family: 'Six Caps', sans-serif;
   font-size: 30px;
-  color: rgb(15, 1, 15);
+  color: #e0fddc;
   margin-bottom: -55px;
 }
 #book1:nth-child(7) {
@@ -115,7 +115,7 @@
  margin-top: 5px;
  font-family: 'Special Elite', cursive;
  font-size: 12px;
- color: rgb(190, 79, 190);
+ color: #effbce;
 }
 #book1:nth-child(8) {
   width: 10%;
@@ -134,7 +134,7 @@
  margin-top: 1px;
  font-family: 'Yanone Kaffeesatz', sans-serif;
  font-size: 17px;
- color: rgb(15, 1, 15);
+ color: #fffbce;
 }
 #book1:nth-child(9) {
   width: 10%;
@@ -151,7 +151,7 @@
 #book1:nth-child(9) #titles1 {
   font-family: 'Anton', sans-serif;
   font-size: 15px;
-  color: rgb(15, 1, 15);
+  color: r#f5fbc9;
   transform: rotate(0deg);
   margin-top: 1px;
 }
@@ -168,7 +168,7 @@
 #book1:nth-child(10) #titles1 {
   font-family: 'Lobster', cursive;
   font-size: 12px;
-  color: rgb(15, 1, 15);
+  color: #fffac0;
   margin-bottom: -30px;
 }
 #book1:nth-child(11) {
@@ -184,7 +184,7 @@
 #book1:nth-child(11) #titles1 {
   font-family: 'Zhi Mang Xing', cursive;
   font-size: 19px;
-  color: rgb(15, 1, 15);
+  color: #c4f9f9;
   margin-bottom: -30px;
 }
 #book1:nth-child(12) {
@@ -200,7 +200,7 @@
 #book1:nth-child(12) #titles1 {
  font-family: 'Righteous', cursive;
  font-size: 12px;
- color: rgb(15, 1, 15);
+ color: #c8fbf3;
  margin-bottom: -30px;
 }
 #book1:nth-child(13) {
@@ -216,7 +216,7 @@
 #book1:nth-child(13) #titles1 {
  font-family: 'Permanent Marker', cursive;
  font-size: 16px;
- color: rgb(15, 1, 15);
+ color: #d0faef;
  margin-bottom: -50px;
 }
 #book1:nth-child(14) {
@@ -232,7 +232,7 @@
 #book1:nth-child(14) #titles1 {
  font-family: 'Special Elite', cursive;
  font-size: 15px;
- color: rgb(15, 1, 15);
+ color: #d6f9e9;
  margin-bottom: -40px;
 }
 #book1:nth-child(15) {
@@ -248,7 +248,7 @@
 #book1:nth-child(15) #titles1 {
  font-family: 'Caveat', cursive;
  font-size: 15px;
- color: rgb(252, 248, 252);
+ color: #dcf9e4;
  margin-bottom: -70px;
 }
 #book1:nth-child(16) {
@@ -266,5 +266,5 @@
  margin-top: -21px;
  font-family: 'Righteous', cursive;
  font-size: 20px;
- color: #a5a1a4;
+ color: #e2f9df;
 }

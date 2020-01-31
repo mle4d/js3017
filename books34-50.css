@@ -1,0 +1,17 @@
+#book2:nth-child(1) {
+  width: .1.2%;
+  height: 85%;
+  text-align: right;
+  background-image: url();
+  background-position: center;
+  background-size: 100%; 
+  background-repeat: repeat;
+  background-color: #f4e5e8;
+}
+#book2:nth-child(1) #titles2 {
+  margin-bottom: -40px;
+  margin-top: -21px;
+  font-family: 'Righteous', cursive;
+  font-size: 14px;
+  color: #d6f1f2;
+ }

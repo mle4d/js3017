@@ -231,9 +231,9 @@
   width: .2%;
   height: 82%;
   text-align: left;
-  background-image: url(assets/purpletab.png);
-  background-position: center;
-  background-size: 100%; 
+  background-image: url(assets/pinktab.png);
+  background-position: top;
+  background-size: 350%; 
   background-repeat: no-repeat;
   background-color: #ffe3e6;
 }
@@ -249,7 +249,7 @@
   text-align: center;
   background-image: url(assets/purplebands.png);
   background-position: bottom;
-  background-size: 100%; 
+  background-size: 130%; 
   background-repeat: no-repeat;
   background-color: #fae5e8;
 }

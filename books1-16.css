@@ -4,7 +4,7 @@
   width: 2.5%;
   height: 85%;
   text-align: center;
-  background-image: url(assets/minttab.png);
+  background-image: url(assets/purpletab.png);
   background-position: top;
   background-size: 90%; 
   background-repeat: no-repeat;
@@ -71,7 +71,7 @@
 #book1:nth-child(5) {
   width: 1%;
   height: 75%;
-  text-align: center;
+  text-align: left;
   background-image: url();
   background-position: top;
   background-size: 90%; 
@@ -80,7 +80,7 @@
 }
 #book1:nth-child(5) #titles1 {
  font-family: 'Righteous', cursive;
- font-size: 13px;
+ font-size: 17px;
  color: #dafde1;
  margin-bottom: -30px;
 }
@@ -88,7 +88,7 @@
   width: 1%;
   height: 83%;
   text-align: left;
-  background-image: url(assets/bluebanner.png);
+  background-image: url(assets/pinkbanner.png);
   background-position: center;
   background-size: 100%; 
   background-repeat: no-repeat;
@@ -151,7 +151,7 @@
 #book1:nth-child(9) #titles1 {
   font-family: 'Anton', sans-serif;
   font-size: 15px;
-  color: r#f5fbc9;
+  color: #f5fbc9;
   transform: rotate(0deg);
   margin-top: 1px;
 }
@@ -159,7 +159,7 @@
   width: 1%;
   height: 73%;
   text-align: left;
-  background-image: url(assets/yellowbanner.png);
+  background-image: url();
   background-position: top;
   background-size: 90%; 
   background-repeat: no-repeat;
@@ -167,7 +167,7 @@
 }
 #book1:nth-child(10) #titles1 {
   font-family: 'Lobster', cursive;
-  font-size: 12px;
+  font-size: 16px;
   color: #fffac0;
   margin-bottom: -30px;
 }
@@ -191,7 +191,7 @@
   width: 1.8%;
   height: 80%;
   text-align: left;
-  background-image: url(assets/mintarrows.png);
+  background-image: url(assets/purplearrows.png);
   background-position: center;
   background-size: 100%; 
   background-repeat: no-repeat;
@@ -209,15 +209,15 @@
   text-align: left;
   background-image: url(assets/purplebars.png);
   background-position: top;
-  background-size: 80%; 
+  background-size: 150%; 
   background-repeat: no-repeat;
   background-color: #f6def2;
 }
 #book1:nth-child(13) #titles1 {
  font-family: 'Permanent Marker', cursive;
- font-size: 16px;
+ font-size: 18px;
  color: #d0faef;
- margin-bottom: -50px;
+ margin-bottom: -60px;
 }
 #book1:nth-child(14) {
   width: 1%;
@@ -257,7 +257,7 @@
   text-align: center;
   background-image: url(assets/peacharrows.png);
   background-position: center;
-  background-size: 100%; 
+  background-size: 350%; 
   background-repeat: repeat;
   background-color: #eddaf9;
 }

@@ -96,7 +96,7 @@
 }
 #book1:nth-child(22) #titles1 {
   font-family: 'Six Caps', sans-serif;
-  font-size: 26px;
+  font-size: 25px;
   color: #cbf7fa;
   margin-bottom: -65px;
 }
@@ -182,18 +182,18 @@
 #book1:nth-child(28) {
   width: .3%;
   height: 95%;
-  text-align: left;
-  background-image: url(assets/peacharrows.png);
-  background-position: center;
-  background-size: 200%; 
+  text-align: center;
+  background-image: url(assets/bluebanner.png);
+  background-position: top;
+  background-size: 40%; 
   background-repeat: no-repeat;
   background-color: #e3dcfa;
 }
 #book1:nth-child(28) #titles1 {
  font-family: 'Righteous', cursive;
- font-size: 12px;
+ font-size: 10px;
  color: #f1f4d6;
- margin-bottom: -30px;
+ margin-bottom: 10px;
 }
 #book1:nth-child(29) {
   width: .2%;
@@ -223,7 +223,7 @@
 }
 #book1:nth-child(30) #titles1 {
  font-family: 'Special Elite', cursive;
- font-size: 12px;
+ font-size: 17px;
  color: #fff3cb;
  margin-bottom: -20px;
 }
@@ -231,9 +231,9 @@
   width: .2%;
   height: 82%;
   text-align: left;
-  background-image: url();
-  background-position: top;
-  background-size: 90%; 
+  background-image: url(assets/purpletab.png);
+  background-position: center;
+  background-size: 100%; 
   background-repeat: no-repeat;
   background-color: #ffe3e6;
 }
@@ -264,7 +264,7 @@
   width: .1.2%;
   height: 85%;
   text-align: right;
-  background-image: url(assets/peacharrows.png);
+  background-image: url();
   background-position: center;
   background-size: 100%; 
   background-repeat: repeat;

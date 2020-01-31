@@ -6,12 +6,44 @@
   background-position: center;
   background-size: 100%; 
   background-repeat: repeat;
-  background-color: #f4e5e8;
+  background-color: #;
 }
 #book2:nth-child(1) #titles2 {
-  margin-bottom: -40px;
-  margin-top: -21px;
+  /* margin-bottom: -10px; */
+  margin-top: -5px; 
   font-family: 'Righteous', cursive;
   font-size: 14px;
-  color: #d6f1f2;
+  color: ;
  }
+ #book2:nth-child(2) {
+  width: 1%;
+  height: 70%;
+  text-align: left;
+  background-image: url();
+  background-position: bottom;
+  background-size: 120%; 
+  background-repeat: no-repeat;
+  background-color: #;
+}
+#book2:nth-child(2) #titles2 {
+ margin-bottom: -40px;
+ font-size: 15px;
+ color: #;
+}
+/* book3 */
+#book2:nth-child(3) {
+  width: 1%;
+  height: 80%;
+  text-align: center;
+  background-image: url();
+  background-position: top;
+  background-size: 90%; 
+  background-repeat: no-repeat;
+  background-color: #;
+}
+#book2:nth-child(3) #titles2 {
+ margin-bottom: -10px;
+ font-family: ;
+ font-size: 10px;
+ color: #;
+}

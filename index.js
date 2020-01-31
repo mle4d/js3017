@@ -24,7 +24,7 @@ const books = ['The Pillars of the Earth','	Number the Stars',
   'Solomon Gursky Was Here','Soul Mountain','Devices and Desires','	Stalking the Angel','Paths of Resistance',
   'From Hell','Schweiz Ohne Armee?','Death Of A Hollow Man','Total Recall','Grass',
   'The Bridesmaid','Around the World<br>in 80 Days','A Peace to End All Peace',
-  'Garden of Lies','Streams of Silver','Illness as Metaphor and AIDS and Its Metaphors',
+  'Garden of Lies','Streams of Silver','Illness as Metaphor and<br>AIDS and Its Metaphors',
   'The Bristling Wood','Shabanu: Daughter of the Wind',
   'Red Branch','The Doll in the Garden','Dead Poets Society','Sword-Maker',
   'The Diamond Throne','Blue Moon Rising','The Heirs of Hammerfell','Alternate Empires','	Infinity Welcomes Careful Drivers','Truckers'];

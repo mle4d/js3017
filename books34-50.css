@@ -13,7 +13,7 @@
   margin-top: -5px; 
   font-family: 'Montserrat', sans-serif;
   font-size: 12px;
-  color: ;
+  color: #daf1ed;
  }
  #book2:nth-child(2) {
   width: .3%;
@@ -29,7 +29,7 @@
  font-family: 'Alata', sans-serif;
  margin-bottom: -40px;
  font-size: 18px;
- color: #;
+ color: #e0f1ea;
 }
 /* book3 */
 #book2:nth-child(3) {
@@ -46,7 +46,7 @@
  margin-bottom: -10px;
  font-family: 'Amarante', cursive;
  font-size: 12px;
- color: #;
+ color: #e5f2e6;
 }
 #book2:nth-child(4) {
   width: 10%;
@@ -64,7 +64,7 @@
  font-family: 'IM Fell Great Primer SC', serif;
  transform: rotate(0deg);
  font-size: 12px;
- color: ;
+ color: #edefe1;
  margin-bottom: -10px;
 }
 #book2:nth-child(5) {
@@ -84,7 +84,7 @@ font-family: 'Josefin Sans', sans-serif;
  transform: rotate(0deg);
  margin-bottom: -10px;
  font-size: 8px;
- color: ;
+ color: #f2f2da;
 }
 #book2:nth-child(6) {
   width: 8%;
@@ -103,6 +103,7 @@ font-family: 'Josefin Sans', sans-serif;
   font-size: 10px;
   transform: rotate(0deg);
   margin-top: -4px;
+  color: #f7f0d7
 }
 #book2:nth-child(7) {
   width: 9%;
@@ -121,6 +122,7 @@ font-family: 'Josefin Sans', sans-serif;
   font-size: 10px;
   transform: rotate(0deg);
   margin-top: 2px;
+  color: #fff0d1;
 }
 #book2:nth-child(8) {
   width: .4%;
@@ -136,7 +138,7 @@ font-family: 'Josefin Sans', sans-serif;
 #book2:nth-child(8) #titles2 {
   font-family: 'Shadows Into Light', cursive;
   font-size: 11px;
-  color: ;
+  color:#cfebfb ;
   margin-top: -4px;
   margin-right: -10px;
 }
@@ -153,7 +155,7 @@ font-family: 'Josefin Sans', sans-serif;
 #book2:nth-child(9) #titles2 {
   font-family: 'Acme', sans-serif;
   font-size: 18px;
-  color: ;
+  color: #d3eef7;
   margin-bottom: -20px;
 }
 #book2:nth-child(10) {
@@ -169,7 +171,7 @@ font-family: 'Josefin Sans', sans-serif;
 #book2:nth-child(10) #titles2 {
   font-family: 'Montserrat', sans-serif;
   font-size: 12px;
-  color: ;
+  color: #d8ecf4;
 }
 #book2:nth-child(11) {
   width: 1%;
@@ -184,7 +186,7 @@ font-family: 'Josefin Sans', sans-serif;
 #book2:nth-child(11) #titles2 {
   font-family: 'Alata', sans-serif;
   font-size: 15px;
-  color: ;
+  color: #deebf1;
   margin-bottom: -4px;
 }
 #book2:nth-child(12) {
@@ -200,7 +202,7 @@ font-family: 'Josefin Sans', sans-serif;
 #book2:nth-child(12) #titles2 {
   font-family: 'Amarante', cursive;
  font-size: 10.5px;
- color: ;
+ color: #e3ecec;
  margin-bottom: -10px;
 }
 #book2:nth-child(13) {
@@ -216,7 +218,7 @@ font-family: 'Josefin Sans', sans-serif;
 #book2:nth-child(13) #titles2 {
  font-family: 'IM Fell Great Primer SC', serif;
  font-size: 16px;
- color: ;
+ color: #e8ede8;
 }
 #book2:nth-child(14) {
   width: 1%;
@@ -231,7 +233,7 @@ font-family: 'Josefin Sans', sans-serif;
 #book2:nth-child(14) #titles2 {
   font-family: 'Josefin Sans', sans-serif;
  font-size: 15px;
- color: ;
+ color: #eeebe5;
  margin-bottom: -3px;
 }
 #book2:nth-child(15) {
@@ -248,7 +250,7 @@ font-family: 'Josefin Sans', sans-serif;
  margin-bottom: -15px;
  font-family: 'Pacifico', cursive;
  font-size: 11px;
- color: ;
+ color: #f3eddf ;
 }
 #book2:nth-child(16) {
   width: 1.2%;
@@ -264,5 +266,5 @@ font-family: 'Josefin Sans', sans-serif;
   margin-bottom: -10px;
   font-family: 'Dancing Script', cursive;
   font-size: 14px;
-  color: ;
+  color: #f8ecdd;
  }

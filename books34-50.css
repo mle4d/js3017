@@ -12,7 +12,7 @@
 #book2:nth-child(1) #titles2 {
   /* margin-bottom: -10px; */
   margin-top: -5px; 
-  font-family:;
+  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   color: ;
  }
@@ -27,6 +27,7 @@
   background-color: #;
 }
 #book2:nth-child(2) #titles2 {
+ font-family: 'Alata', sans-serif;
  margin-bottom: -40px;
  font-size: 15px;
  color: #;
@@ -44,7 +45,7 @@
 }
 #book2:nth-child(3) #titles2 {
  margin-bottom: -10px;
- font-family: ;
+ font-family: 'Amarante', cursive;
  font-size: 10px;
  color: #;
 }
@@ -61,6 +62,7 @@
   margin-left: 0px;
 }
 #book2:nth-child(4) #titles2 {
+ font-family: 'IM Fell Great Primer SC', serif;
  transform: rotate(0deg);
  font-size: 10px;
  color: ;
@@ -79,6 +81,7 @@
   margin-left: -140px;
 }
 #book2:nth-child(5) #titles2 {
+font-family: 'Josefin Sans', sans-serif;
  transform: rotate(0deg);
  margin-bottom: -10px;
  font-size: 8px;
@@ -97,6 +100,7 @@
   margin-left: -140px;
 }
 #book2:nth-child(6) #titles2 {
+  font-family: 'Pacifico', cursive;
   font-size: 12px;
   transform: rotate(0deg);
   margin-top: -2px;
@@ -114,6 +118,7 @@
   margin-left: -127px;
 }
 #book2:nth-child(7) #titles2 {
+  font-family: 'Dancing Script', cursive;
   font-size: 10px;
   transform: rotate(0deg);
   margin-top: 2px;
@@ -130,7 +135,7 @@
  
 }
 #book2:nth-child(8) #titles2 {
-  font-family: ;
+  font-family: 'Shadows Into Light', cursive;
   font-size: 12px;
   color: ;
   margin-top: 1px;
@@ -146,7 +151,7 @@
   background-color: ;
 }
 #book2:nth-child(9) #titles2 {
-  font-family: ;
+  font-family: 'Acme', sans-serif;
   font-size: 16px;
   color: ;
   margin-bottom: -30px;
@@ -162,7 +167,7 @@
   background-color: ;
 }
 #book2:nth-child(10) #titles2 {
-  font-family: ;
+  font-family: 'Montserrat', sans-serif;
   font-size: 10px;
   color: ;
   /* margin-bottom: -30px; */
@@ -178,7 +183,7 @@
   background-color: ;
 }
 #book2:nth-child(11) #titles2 {
-  font-family: ;
+  font-family: 'Alata', sans-serif;
   font-size: 10px;
   color: ;
   /* margin-bottom: -30px; */
@@ -194,7 +199,7 @@
   background-color: ;
 }
 #book2:nth-child(12) #titles2 {
- font-family: ;
+  font-family: 'Amarante', cursive;
  font-size: 10px;
  color: ;
  margin-bottom: -60px;
@@ -210,7 +215,7 @@
   background-color: ;
 }
 #book2:nth-child(13) #titles2 {
- font-family: ;
+ font-family: 'IM Fell Great Primer SC', serif;
  font-size: 15px;
  color: ;
  /* margin-bottom: -40px; */
@@ -226,7 +231,7 @@
   background-color: ;
 }
 #book2:nth-child(14) #titles2 {
- font-family: ;
+  font-family: 'Josefin Sans', sans-serif;
  font-size: 15px;
  color: ;
  /* margin-bottom: -70px; */
@@ -244,7 +249,7 @@
 #book2:nth-child(15) #titles2 {
  /* margin-bottom: -40px;
  margin-top: -21px; */
- font-family: ;
+ font-family: 'Pacifico', cursive;
  font-size: 10px;
  color: ;
 }
@@ -261,7 +266,7 @@
 #book2:nth-child(16) #titles2 {
   /* margin-bottom: -10px; */
   /* margin-top: 5px;  */
-  font-family: ;
+  font-family: 'Dancing Script', cursive;
   font-size: 14px;
   color: ;
  }

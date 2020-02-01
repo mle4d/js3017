@@ -35,10 +35,10 @@ font-family: 'Acme', sans-serif;
   width: .1%;
   height: 70%;
   text-align: center;
-  background-image: url();
-  background-position: center;
-  background-size: 350%; 
-  background-repeat: repeat;
+  background-image: url(assets/purplebands.png);
+  background-position: top;
+  background-size: 100%; 
+  background-repeat: no-repeat;
   background-color: #f8ecdd;
 }
 #book2:nth-child(19) #titles2 {
@@ -50,16 +50,16 @@ font-family: 'Acme', sans-serif;
 #book2:nth-child(20) {
   width: 1%;
   height: 85%;
-  text-align: center;
-  background-image: url();
-  background-position: center;
-  background-size: 100%; 
-  background-repeat: repeat;
+  text-align: left;
+  background-image: url(assets/pinkbanner.png);
+  background-position: top;
+  background-size: 90%; 
+  background-repeat: no-repeat;
   background-color: #f3eddf;
 }
 #book2:nth-child(20) #titles2 {
   font-family: 'Alata', sans-serif;
-  font-size: 14px;
+  font-size: 12px;
   color: #dde7f6;
  }
  #book2:nth-child(21) {
@@ -82,8 +82,8 @@ font-family: 'Acme', sans-serif;
   width: .7%;
   height: 84%;
   text-align: center;
-  background-image: url();
-  background-position: top;
+  background-image: url(assets/purplearrows.png);
+  background-position: center;
   background-size: 90%; 
   background-repeat: no-repeat;
   background-color: #e8ede8;
@@ -97,7 +97,7 @@ font-family: 'Acme', sans-serif;
   width: .2%;
   height: 80%;
   text-align: center;
-  background-image: url(assets/);
+  background-image: url(assets/yellowbanner.png);
   background-position: center;
   background-size: 100%; 
   background-repeat: no-repeat;
@@ -105,7 +105,7 @@ font-family: 'Acme', sans-serif;
 }
 #book2:nth-child(23) #titles2 {
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 12px;
+  font-size: 10px;
   color: #eae9ed ;
   
 }

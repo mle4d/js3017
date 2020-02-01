@@ -57,15 +57,18 @@
   background-size: 90%; 
   background-repeat: no-repeat;
   background-color:#e4e2f5 ;
-  margin-bottom: 2px;
+  margin-bottom: 0px;
   margin-left: 0px;
 }
 #book2:nth-child(4) #titles2 {
  font-family: 'IM Fell Great Primer SC', serif;
  transform: rotate(0deg);
- font-size: 12px;
+ font-size: 18px;
  color: #edefe1;
  margin-bottom: -10px;
+ position: fixed;
+ left: 10%;
+ top: 58%;
 }
 #book2:nth-child(5) {
   width: 9%;
@@ -100,10 +103,13 @@ font-family: 'Josefin Sans', sans-serif;
 }
 #book2:nth-child(6) #titles2 {
   font-family: 'Pacifico', cursive;
-  font-size: 10px;
+  font-size: 16px;
   transform: rotate(0deg);
   margin-top: -4px;
-  color: #f7f0d7
+  color: #f7f0d7;
+  position: fixed;
+  left: 10%;
+  top: 53%;
 }
 #book2:nth-child(7) {
   width: 9%;
@@ -119,10 +125,13 @@ font-family: 'Josefin Sans', sans-serif;
 }
 #book2:nth-child(7) #titles2 {
   font-family: 'Dancing Script', cursive;
-  font-size: 10px;
+  font-size: 16px;
   transform: rotate(0deg);
   margin-top: 2px;
   color: #fff0d1;
+  position: fixed;
+  left: 10%;
+  top: 49%;
 }
 #book2:nth-child(8) {
   width: .4%;

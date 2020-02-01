@@ -38,6 +38,11 @@
   text-overflow: ellipsis;
   align-self: flex-end;
   margin-bottom: 12px;
+  text-shadow:
+		-1px -1px 0 #fff,
+		1px -1px 0 #fff,
+		-1px 1px 0 #fff,
+		1px 1px 0 #fff;
 }
 /* #book3:nth-child(2) #titles3 {
   color: blue;

@@ -53,13 +53,26 @@ body {
 }
 .pony {
   background-image: url(assets/pony.png);
-  background-size: 80%;
+  background-size: 70%;
   background-repeat: no-repeat;
   width: 100px;
   height: 100px;
   position: fixed;
-  top: 44.1%;
-  left: 75.4%;
+  top: 45.5%;
+  left: 76.2%;
+  -webkit-filter: drop-shadow( 0 0 3px rgb(36, 36, 36));
+  filter: drop-shadow( 0 0 3px rgb(36, 36, 36));
+}
+.phone {
+  background-image: url(assets/phone.png);
+  background-size: 30%;
+  background-repeat: no-repeat;
+  transform: rotate(7deg);
+  width: 100px;
+  height: 200px;
+  position: fixed;
+  top: 36.8%;
+  left: 72.4%;
   -webkit-filter: drop-shadow( 0 0 3px rgb(36, 36, 36));
   filter: drop-shadow( 0 0 3px rgb(36, 36, 36));
 }

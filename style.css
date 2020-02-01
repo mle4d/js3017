@@ -39,3 +39,15 @@ body {
   -webkit-filter: drop-shadow( 0 0 3px rgb(36, 36, 36));
   filter: drop-shadow( 0 0 3px rgb(36, 36, 36));
 }
+.tapes {
+  background-image: url(assets/tapes.png);
+  background-size: 95%;
+  background-repeat: no-repeat;
+  width: 100px;
+  height: 100px;
+  position: fixed;
+  top: 41.2%;
+  left: 12%;
+  -webkit-filter: drop-shadow( 0 0 3px rgb(36, 36, 36));
+  filter: drop-shadow( 0 0 3px rgb(36, 36, 36));
+}

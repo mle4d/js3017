@@ -63,16 +63,15 @@ body {
   -webkit-filter: drop-shadow( 0 0 3px rgb(36, 36, 36));
   filter: drop-shadow( 0 0 3px rgb(36, 36, 36));
 }
-.phone {
-  background-image: url(assets/phone.png);
-  background-size: 30%;
+.alf {
+  background-image: url(assets/alf.png);
+  background-size: 75%;
   background-repeat: no-repeat;
-  transform: rotate(7deg);
   width: 100px;
   height: 200px;
   position: fixed;
-  top: 36.8%;
-  left: 72.4%;
+  top: 41.2%;
+  left: 71.8%;
   -webkit-filter: drop-shadow( 0 0 3px rgb(36, 36, 36));
   filter: drop-shadow( 0 0 3px rgb(36, 36, 36));
 }

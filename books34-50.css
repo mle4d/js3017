@@ -19,7 +19,7 @@
   width: .3%;
   height: 70%;
   text-align: left;
-  background-image: url();
+  background-image: url(assets/peacharrows.png);
   background-position: bottom;
   background-size: 120%; 
   background-repeat: no-repeat;
@@ -36,9 +36,9 @@
   width: 1%;
   height: 75%;
   text-align: left;
-  background-image: url();
+  background-image: url(assets/pinktab.png);
   background-position: top;
-  background-size: 90%; 
+  background-size: 100%; 
   background-repeat: no-repeat;
   background-color: #e8e2f3;
 }
@@ -50,11 +50,11 @@
 }
 #book2:nth-child(4) {
   width: 10%;
-  height: 12%;
+  height: 13%;
   text-align: center;
-  background-image: url();
-  background-position: top;
-  background-size: 90%; 
+  background-image: url(assets/minttab.png);
+  background-position: left;
+  background-size: 25%; 
   background-repeat: no-repeat;
   background-color:#e4e2f5 ;
   margin-bottom: 0px;
@@ -93,9 +93,9 @@ font-family: 'Josefin Sans', sans-serif;
   width: 8%;
   height: 14.5%;
   text-align: center;
-  background-image: url();
-  background-position: top;
-  background-size: 90%; 
+  background-image: url(assets/bluebands.png);
+  background-position: right;
+  background-size: 15%; 
   background-repeat: no-repeat;
   background-color: #dae2f9;
   margin-bottom: 47px;
@@ -137,10 +137,10 @@ font-family: 'Josefin Sans', sans-serif;
   width: .4%;
   height: 70%;
   text-align: center;
-  background-image: url();
-  background-position: top;
-  background-size: 90%; 
-  background-repeat: no-repeat;
+  background-image: url(assets/pinkbanner.png);
+  background-position: center;
+  background-size: 30%; 
+  background-repeat: repeat-y;
   background-color: #ffe8de;
  
 }
@@ -186,10 +186,10 @@ font-family: 'Josefin Sans', sans-serif;
   width: 1%;
   height: 80%;
   text-align: center;
-  background-image: url(assets/);
+  background-image: url(assets/yellowbanner.png);
   background-position: center;
-  background-size: 100%; 
-  background-repeat: no-repeat;
+  background-size: 30%; 
+  background-repeat: repeat-y;
   background-color: #efe6e9 ;
 }
 #book2:nth-child(11) #titles2 {
@@ -201,16 +201,16 @@ font-family: 'Josefin Sans', sans-serif;
 #book2:nth-child(12) {
   width: .6%;
   height: 80%;
-  text-align: left;
-  background-image: url();
-  background-position: top;
-  background-size: 150%; 
+  text-align: center;
+  background-image: url(assets/bluebanner.png);
+  background-position: center;
+  background-size: 90%; 
   background-repeat: no-repeat;
   background-color: #eae9ed;
 }
 #book2:nth-child(12) #titles2 {
   font-family: 'Amarante', cursive;
- font-size: 10.5px;
+ font-size: 8px;
  color: #e3ecec;
  margin-bottom: -10px;
 }
@@ -218,9 +218,9 @@ font-family: 'Josefin Sans', sans-serif;
   width: 1%;
   height: 88%;
   text-align: left;
-  background-image: url();
-  background-position: top;
-  background-size: 90%; 
+  background-image: url(assets/perriwinklebars.png);
+  background-position: center;
+  background-size: 150%; 
   background-repeat: no-repeat;
   background-color: #e5e7f0;
 }
@@ -233,10 +233,10 @@ font-family: 'Josefin Sans', sans-serif;
   width: 1%;
   height: 75%;
   text-align: left;
-  background-image: url();
-  background-position: top;
-  background-size: 90%; 
-  background-repeat: no-repeat;
+  background-image: url(assets/mintarrows.png);
+  background-position: center;
+  background-size: 70%; 
+  background-repeat: repeat-y;
   background-color: #e0e6f3;
 }
 #book2:nth-child(14) #titles2 {
@@ -265,10 +265,10 @@ font-family: 'Josefin Sans', sans-serif;
   width: 1.2%;
   height: 81%;
   text-align: left;
-  background-image: url();
-  background-position: center;
-  background-size: 100%; 
-  background-repeat: repeat;
+  background-image: url(assets/greenbands.png);
+  background-position: bottom;
+  background-size: 50%; 
+  background-repeat: repeat-x;
   background-color: #d6e8f8;
 }
 #book2:nth-child(16) #titles2 {

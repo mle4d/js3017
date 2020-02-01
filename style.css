@@ -17,13 +17,13 @@ body {
 }
 .troll {
   background-image: url(assets/troll.png);
-  background-size: 40%;
+  background-size: 30%;
   background-repeat: no-repeat;
   width: 100px;
   height: 100px;
   position: fixed;
-  top: 10%;
-  left: 24%;
+  top: 13.3%;
+  left: 25%;
   -webkit-filter: drop-shadow( 0 0 3px rgb(36, 36, 36));
   filter: drop-shadow( 0 0 3px rgb(36, 36, 36));
 }
@@ -48,6 +48,18 @@ body {
   position: fixed;
   top: 41.2%;
   left: 12%;
+  -webkit-filter: drop-shadow( 0 0 3px rgb(36, 36, 36));
+  filter: drop-shadow( 0 0 3px rgb(36, 36, 36));
+}
+.pony {
+  background-image: url(assets/pony.png);
+  background-size: 80%;
+  background-repeat: no-repeat;
+  width: 100px;
+  height: 100px;
+  position: fixed;
+  top: 44.1%;
+  left: 75.4%;
   -webkit-filter: drop-shadow( 0 0 3px rgb(36, 36, 36));
   filter: drop-shadow( 0 0 3px rgb(36, 36, 36));
 }

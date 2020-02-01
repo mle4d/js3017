@@ -105,7 +105,7 @@ font-family: 'Acme', sans-serif;
 }
 #book2:nth-child(23) #titles2 {
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 10px;
+  font-size: 9px;
   color: #eae9ed ;
   
 }
@@ -129,29 +129,29 @@ font-family: 'Acme', sans-serif;
   width: 8%;
   height: 14%;
   text-align: center;
-  background-image: url();
-  background-position: top;
-  background-size: 90%; 
+  background-image: url(assets/pinkbanner.png);
+  background-position: right;
+  background-size: 20%; 
   background-repeat: no-repeat;
   background-color: #d8ecf4;
-  margin-bottom: 1px;
+  margin-bottom: 0px;
   
 }
 #book2:nth-child(25) #titles2 {
   font-family: 'Dancing Script', cursive;
-  font-size: 12px;
+  font-size: 13px;
   transform: rotate(0deg);
-  margin-bottom: .2px;
+  margin-bottom: 1px;
   color: #f3e9e4;
 }
 #book2:nth-child(26) {
   width: 8%;
   height: 16%;
   text-align: center;
-  background-image: url();
-  background-position: top;
-  background-size: 90%; 
-  background-repeat: no-repeat;
+  background-image: url(assets/purplebands.png);
+  background-position: right;
+  background-size: 16%; 
+  background-repeat: repeat-y;
   background-color: #d3eef7;
   margin-bottom: 26px;
   margin-left: -120px;
@@ -160,7 +160,7 @@ font-family: 'Acme', sans-serif;
   font-family: 'Shadows Into Light', cursive;
   font-size: 10px;
   transform: rotate(0deg);
-  margin-bottom: 2px;
+  margin-bottom: -2px;
   color: #f9e8e2;
 }
 #book2:nth-child(27) {
@@ -183,10 +183,10 @@ font-family: 'Acme', sans-serif;
   width: .2%;
   height: 60%;
   text-align: center;
-  background-image: url();
-  background-position: center;
-  background-size: 100%; 
-  background-repeat: repeat;
+  background-image: url(assets/minttab.png);
+  background-position: top;
+  background-size: 140%; 
+  background-repeat: no-repeat;
   background-color: #fff0d1;
 }
 #book2:nth-child(28) #titles2 {
@@ -217,9 +217,9 @@ font-family: 'Acme', sans-serif;
   width: .1%;
   height: 55%;
   text-align: left;
-  background-image: url();
-  background-position: top;
-  background-size: 90%; 
+  background-image: url(assets/purplearrows.png);
+  background-position: center;
+  background-size: 166%; 
   background-repeat: no-repeat;
   background-color: #f2f2da;
 }
@@ -233,9 +233,9 @@ font-family: 'Acme', sans-serif;
   width: .2%;
   height: 78%;
   text-align: center;
-  background-image: url();
+  background-image: url(assets/bluebands.png);
   background-position: top;
-  background-size: 90%; 
+  background-size: 100%; 
   background-repeat: no-repeat;
   background-color: #edefe1;
 }

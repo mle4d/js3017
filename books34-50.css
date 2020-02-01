@@ -31,7 +31,6 @@
  font-size: 18px;
  color: #e0f1ea;
 }
-/* book3 */
 #book2:nth-child(3) {
   width: 1%;
   height: 75%;
@@ -47,6 +46,7 @@
  font-family: 'Amarante', cursive;
  font-size: 12px;
  color: #e5f2e6;
+ text-shadow: none;
 }
 #book2:nth-child(4) {
   width: 10%;
@@ -69,6 +69,7 @@
  position: fixed;
  left: 10%;
  top: 58%;
+ text-shadow: none;
 }
 #book2:nth-child(5) {
   width: 9%;
@@ -88,6 +89,7 @@ font-family: 'Josefin Sans', sans-serif;
  margin-bottom: -10px;
  font-size: 8px;
  color: #f2f2da;
+ text-shadow: none;
 }
 #book2:nth-child(6) {
   width: 8%;
@@ -110,6 +112,7 @@ font-family: 'Josefin Sans', sans-serif;
   position: fixed;
   left: 10%;
   top: 53%;
+  text-shadow: none;
 }
 #book2:nth-child(7) {
   width: 9%;
@@ -197,6 +200,7 @@ font-family: 'Josefin Sans', sans-serif;
   font-size: 15px;
   color: #deebf1;
   margin-bottom: -4px;
+  text-shadow: none;
 }
 #book2:nth-child(12) {
   width: .6%;
@@ -258,8 +262,9 @@ font-family: 'Josefin Sans', sans-serif;
 #book2:nth-child(15) #titles2 {
  margin-bottom: -15px;
  font-family: 'Pacifico', cursive;
- font-size: 11px;
- color: #f3eddf ;
+ font-size: 12px;
+ color: #f3eddf;
+ text-shadow: none;
 }
 #book2:nth-child(16) {
   width: 1.2%;
@@ -276,4 +281,5 @@ font-family: 'Josefin Sans', sans-serif;
   font-family: 'Dancing Script', cursive;
   font-size: 14px;
   color: #f8ecdd;
+  text-shadow: none;
  }

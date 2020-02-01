@@ -14,6 +14,7 @@
  font-size: 15px;
  color: #ffecd7;
  margin-bottom: -50px;
+ text-shadow: none;
 }
 #book2:nth-child(18) {
   width: 1%;
@@ -107,7 +108,6 @@ font-family: 'Acme', sans-serif;
   font-family: 'Josefin Sans', sans-serif;
   font-size: 9px;
   color: #eae9ed ;
-  
 }
 #book2:nth-child(24) {
   width: .6%;
@@ -178,6 +178,7 @@ font-family: 'Acme', sans-serif;
   font-family: 'Acme', sans-serif;
   font-size: 13px;
   color: #ffe8de;
+  text-shadow: none;
  }
 #book2:nth-child(28) {
   width: .2%;
@@ -195,6 +196,7 @@ font-family: 'Acme', sans-serif;
   font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   color: #d8e1fd;
+  text-shadow: none;
  }
  #book2:nth-child(29) {
   width: .3%;
@@ -211,8 +213,8 @@ font-family: 'Acme', sans-serif;
  margin-bottom: -30px;
  font-size: 17px;
  color: #dae2f9;
+ text-shadow: none;
 }
-/* book3 */
 #book2:nth-child(30) {
   width: .1%;
   height: 55%;
@@ -244,6 +246,7 @@ font-family: 'Acme', sans-serif;
   font-size: 17px;
   color: #e4e2f5;
   margin-bottom: -12px;
+  text-shadow: none;
 }
 #book2:nth-child(32) {
   width: .1%;

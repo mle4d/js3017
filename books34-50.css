@@ -7,7 +7,7 @@
   background-position: center;
   background-size: 100%; 
   background-repeat: repeat;
-  background-color: #;
+  background-color: #f1e2ed;
 }
 #book2:nth-child(1) #titles2 {
   margin-top: -5px; 
@@ -23,7 +23,7 @@
   background-position: bottom;
   background-size: 120%; 
   background-repeat: no-repeat;
-  background-color: #;
+  background-color: #ece4f1;
 }
 #book2:nth-child(2) #titles2 {
  font-family: 'Alata', sans-serif;
@@ -40,7 +40,7 @@
   background-position: top;
   background-size: 90%; 
   background-repeat: no-repeat;
-  background-color: #;
+  background-color: #e8e2f3;
 }
 #book2:nth-child(3) #titles2 {
  margin-bottom: -10px;
@@ -56,7 +56,7 @@
   background-position: top;
   background-size: 90%; 
   background-repeat: no-repeat;
-  background-color: ;
+  background-color:#e4e2f5 ;
   margin-bottom: 2px;
   margin-left: 0px;
 }
@@ -75,7 +75,7 @@
   background-position: right;
   background-size: 25%; 
   background-repeat: no-repeat;
-  background-color: ;
+  background-color: #dfe2f8;
   margin-bottom: 23px;
   margin-left: -140px;
 }
@@ -94,7 +94,7 @@ font-family: 'Josefin Sans', sans-serif;
   background-position: top;
   background-size: 90%; 
   background-repeat: no-repeat;
-  background-color: ;
+  background-color: #dae2f9;
   margin-bottom: 47px;
   margin-left: -140px;
 }
@@ -112,7 +112,7 @@ font-family: 'Josefin Sans', sans-serif;
   background-position: top;
   background-size: 90%; 
   background-repeat: no-repeat;
-  background-color: ;
+  background-color: #d8e1fd;
   margin-bottom: 73px;
   margin-left: -127px;
 }
@@ -130,7 +130,7 @@ font-family: 'Josefin Sans', sans-serif;
   background-position: top;
   background-size: 90%; 
   background-repeat: no-repeat;
-  background-color: ;
+  background-color: #ffe8de;
  
 }
 #book2:nth-child(8) #titles2 {
@@ -148,7 +148,7 @@ font-family: 'Josefin Sans', sans-serif;
   background-position: top;
   background-size: 90%; 
   background-repeat: no-repeat;
-  background-color: ;
+  background-color: #f9e8e2;
 }
 #book2:nth-child(9) #titles2 {
   font-family: 'Acme', sans-serif;
@@ -164,7 +164,7 @@ font-family: 'Josefin Sans', sans-serif;
   background-position: top;
   background-size: 90%; 
   background-repeat: no-repeat;
-  background-color: ;
+  background-color: #f3e9e4 ;
 }
 #book2:nth-child(10) #titles2 {
   font-family: 'Montserrat', sans-serif;
@@ -179,7 +179,7 @@ font-family: 'Josefin Sans', sans-serif;
   background-position: center;
   background-size: 100%; 
   background-repeat: no-repeat;
-  background-color: ;
+  background-color: #efe6e9 ;
 }
 #book2:nth-child(11) #titles2 {
   font-family: 'Alata', sans-serif;
@@ -195,7 +195,7 @@ font-family: 'Josefin Sans', sans-serif;
   background-position: top;
   background-size: 150%; 
   background-repeat: no-repeat;
-  background-color: ;
+  background-color: #eae9ed;
 }
 #book2:nth-child(12) #titles2 {
   font-family: 'Amarante', cursive;
@@ -211,7 +211,7 @@ font-family: 'Josefin Sans', sans-serif;
   background-position: top;
   background-size: 90%; 
   background-repeat: no-repeat;
-  background-color: ;
+  background-color: #e5e7f0;
 }
 #book2:nth-child(13) #titles2 {
  font-family: 'IM Fell Great Primer SC', serif;
@@ -226,7 +226,7 @@ font-family: 'Josefin Sans', sans-serif;
   background-position: top;
   background-size: 90%; 
   background-repeat: no-repeat;
-  background-color: ;
+  background-color: #e0e6f3;
 }
 #book2:nth-child(14) #titles2 {
   font-family: 'Josefin Sans', sans-serif;
@@ -242,7 +242,7 @@ font-family: 'Josefin Sans', sans-serif;
   background-position: center;
   background-size: 350%; 
   background-repeat: repeat;
-  background-color: ;
+  background-color: #dde7f6;
 }
 #book2:nth-child(15) #titles2 {
  margin-bottom: -15px;
@@ -258,7 +258,7 @@ font-family: 'Josefin Sans', sans-serif;
   background-position: center;
   background-size: 100%; 
   background-repeat: repeat;
-  background-color: #;
+  background-color: #d6e8f8;
 }
 #book2:nth-child(16) #titles2 {
   margin-bottom: -10px;

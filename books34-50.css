@@ -10,10 +10,9 @@
   background-color: #;
 }
 #book2:nth-child(1) #titles2 {
-  /* margin-bottom: -10px; */
   margin-top: -5px; 
   font-family: 'Montserrat', sans-serif;
-  font-size: 14px;
+  font-size: 12px;
   color: ;
  }
  #book2:nth-child(2) {
@@ -29,14 +28,14 @@
 #book2:nth-child(2) #titles2 {
  font-family: 'Alata', sans-serif;
  margin-bottom: -40px;
- font-size: 15px;
+ font-size: 18px;
  color: #;
 }
 /* book3 */
 #book2:nth-child(3) {
   width: 1%;
   height: 75%;
-  text-align: center;
+  text-align: left;
   background-image: url();
   background-position: top;
   background-size: 90%; 
@@ -46,7 +45,7 @@
 #book2:nth-child(3) #titles2 {
  margin-bottom: -10px;
  font-family: 'Amarante', cursive;
- font-size: 10px;
+ font-size: 12px;
  color: #;
 }
 #book2:nth-child(4) {
@@ -64,7 +63,7 @@
 #book2:nth-child(4) #titles2 {
  font-family: 'IM Fell Great Primer SC', serif;
  transform: rotate(0deg);
- font-size: 10px;
+ font-size: 12px;
  color: ;
  margin-bottom: -10px;
 }
@@ -101,9 +100,9 @@ font-family: 'Josefin Sans', sans-serif;
 }
 #book2:nth-child(6) #titles2 {
   font-family: 'Pacifico', cursive;
-  font-size: 12px;
+  font-size: 10px;
   transform: rotate(0deg);
-  margin-top: -2px;
+  margin-top: -4px;
 }
 #book2:nth-child(7) {
   width: 9%;
@@ -124,7 +123,7 @@ font-family: 'Josefin Sans', sans-serif;
   margin-top: 2px;
 }
 #book2:nth-child(8) {
-  width: 1%;
+  width: .4%;
   height: 70%;
   text-align: center;
   background-image: url();
@@ -136,12 +135,13 @@ font-family: 'Josefin Sans', sans-serif;
 }
 #book2:nth-child(8) #titles2 {
   font-family: 'Shadows Into Light', cursive;
-  font-size: 12px;
+  font-size: 11px;
   color: ;
-  margin-top: 1px;
+  margin-top: -4px;
+  margin-right: -10px;
 }
 #book2:nth-child(9) {
-  width: 1%;
+  width: .3%;
   height: 73%;
   text-align: left;
   background-image: url();
@@ -152,14 +152,14 @@ font-family: 'Josefin Sans', sans-serif;
 }
 #book2:nth-child(9) #titles2 {
   font-family: 'Acme', sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   color: ;
-  margin-bottom: -30px;
+  margin-bottom: -20px;
 }
 #book2:nth-child(10) {
   width: .7%;
   height: 84%;
-  text-align: left;
+  text-align: center;
   background-image: url();
   background-position: top;
   background-size: 90%; 
@@ -168,14 +168,13 @@ font-family: 'Josefin Sans', sans-serif;
 }
 #book2:nth-child(10) #titles2 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 10px;
+  font-size: 12px;
   color: ;
-  /* margin-bottom: -30px; */
 }
 #book2:nth-child(11) {
-  width: 1.8%;
+  width: 1%;
   height: 80%;
-  text-align: left;
+  text-align: center;
   background-image: url(assets/);
   background-position: center;
   background-size: 100%; 
@@ -184,13 +183,13 @@ font-family: 'Josefin Sans', sans-serif;
 }
 #book2:nth-child(11) #titles2 {
   font-family: 'Alata', sans-serif;
-  font-size: 10px;
+  font-size: 15px;
   color: ;
-  /* margin-bottom: -30px; */
+  margin-bottom: -4px;
 }
 #book2:nth-child(12) {
   width: .6%;
-  height: 70%;
+  height: 80%;
   text-align: left;
   background-image: url();
   background-position: top;
@@ -200,9 +199,9 @@ font-family: 'Josefin Sans', sans-serif;
 }
 #book2:nth-child(12) #titles2 {
   font-family: 'Amarante', cursive;
- font-size: 10px;
+ font-size: 10.5px;
  color: ;
- margin-bottom: -60px;
+ margin-bottom: -10px;
 }
 #book2:nth-child(13) {
   width: 1%;
@@ -216,13 +215,12 @@ font-family: 'Josefin Sans', sans-serif;
 }
 #book2:nth-child(13) #titles2 {
  font-family: 'IM Fell Great Primer SC', serif;
- font-size: 15px;
+ font-size: 16px;
  color: ;
- /* margin-bottom: -40px; */
 }
 #book2:nth-child(14) {
   width: 1%;
-  height: 65%;
+  height: 75%;
   text-align: left;
   background-image: url();
   background-position: top;
@@ -234,12 +232,12 @@ font-family: 'Josefin Sans', sans-serif;
   font-family: 'Josefin Sans', sans-serif;
  font-size: 15px;
  color: ;
- /* margin-bottom: -70px; */
+ margin-bottom: -3px;
 }
 #book2:nth-child(15) {
   width: .1%;
   height: 70%;
-  text-align: center;
+  text-align: left;
   background-image: url();
   background-position: center;
   background-size: 350%; 
@@ -247,16 +245,15 @@ font-family: 'Josefin Sans', sans-serif;
   background-color: ;
 }
 #book2:nth-child(15) #titles2 {
- /* margin-bottom: -40px;
- margin-top: -21px; */
+ margin-bottom: -15px;
  font-family: 'Pacifico', cursive;
- font-size: 10px;
+ font-size: 11px;
  color: ;
 }
 #book2:nth-child(16) {
-  width: .1.2%;
-  height: 85%;
-  text-align: right;
+  width: 1.2%;
+  height: 81%;
+  text-align: left;
   background-image: url();
   background-position: center;
   background-size: 100%; 
@@ -264,8 +261,7 @@ font-family: 'Josefin Sans', sans-serif;
   background-color: #;
 }
 #book2:nth-child(16) #titles2 {
-  /* margin-bottom: -10px; */
-  /* margin-top: 5px;  */
+  margin-bottom: -10px;
   font-family: 'Dancing Script', cursive;
   font-size: 14px;
   color: ;

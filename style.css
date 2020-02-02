@@ -87,3 +87,16 @@ body {
   -webkit-filter: drop-shadow( 0 0 3px rgb(36, 36, 36));
   filter: drop-shadow( 0 0 3px rgb(36, 36, 36));
 }
+.skeletor {
+  background-image: url(assets/skeletor.png);
+  background-size: 31%;
+  background-repeat: no-repeat;
+  width: 200px;
+  height: 200px;
+  position: fixed;
+  top: 69%;
+  left: 60%;
+  transform: rotate(3deg);
+  -webkit-filter: drop-shadow( 0 0 3px rgb(36, 36, 36));
+  filter: drop-shadow( 0 0 3px rgb(36, 36, 36));
+}

@@ -240,9 +240,9 @@
 }
 #book1:nth-child(14) #titles1 {
  font-family: 'Special Elite', cursive;
- font-size: 15px;
+ font-size: 14px;
  color: #d6f9e9;
- margin-bottom: -40px;
+ margin-bottom: -10px;
 }
 #book1:nth-child(15) {
   width: 1%;

@@ -13,13 +13,12 @@
   font-family: 'Acme', sans-serif;
   font-size: 13px;
   color: #f4e5eb;
-  text-shadow: none;
  }
 #book3:nth-child(2) {
   width: .2%;
   height: 60%;
   text-align: center;
-  background-image: url(assets/minttab.png);
+  background-image: url(assets/pinktab.png);
   background-position: top;
   background-size: 140%; 
   background-repeat: no-repeat;
@@ -31,7 +30,6 @@
   font-family: 'Montserrat', sans-serif;
   font-size: 16px;
   color: #fae5eb;
-  text-shadow: none;
  }
  #book3:nth-child(3) {
   width: .3%;
@@ -48,7 +46,6 @@
   margin-bottom: -10px;
   font-size: 14px;
   color: #ffe3e6;
-  text-shadow: none;
  }
  #book3:nth-child(4) {
   width: .6%;
@@ -56,13 +53,13 @@
   text-align: left;
   background-image: url(assets/purplebars.png);
   background-position: bottom;
-  background-size: 35%; 
+  background-size: 30%; 
   background-repeat: repeat-x;
   background-color: #fff3cb;
 }
 #book3:nth-child(4) #titles3 {
  font-family: 'Permanent Marker', cursive;
- font-size: 12px;
+ font-size: 13px;
  color: #dcdbfe;
  margin-bottom: -20px;
  text-shadow: none;
@@ -97,7 +94,7 @@
  font-family: 'Caveat', cursive;
  font-size: 15px;
  color: #e3dcfa;
- margin-bottom: -10px;
+ margin-bottom: -18px;
  text-shadow: none;
 }
 #book3:nth-child(7) {
@@ -163,7 +160,7 @@
   font-family: 'Josefin Sans', sans-serif;
  font-size: 13px;
  color: #f2ddf2;
- margin-bottom: -3px;
+ margin-bottom: -8px;
 }
 #book3:nth-child(11) {
   width: .1%;
@@ -178,9 +175,8 @@
 #book3:nth-child(11) #titles3 {
  margin-bottom: -35px;
  font-family: 'Pacifico', cursive;
- font-size: 15px;
+ font-size: 14px;
  color: #f6e1ee;
- text-shadow: none;
 }
 #book3:nth-child(12) {
   width: .6%;
@@ -195,7 +191,7 @@
 #book3:nth-child(12) #titles3 {
   margin-bottom: -10px;
   font-family: 'Dancing Script', cursive;
-  font-size: 20px;
+  font-size: 22px;
   color: #fae1ed;
   text-shadow: none;
  }
@@ -214,7 +210,6 @@
  font-size: 15px;
  color: #ffe0eb;
  margin-bottom: -12px;
- text-shadow: none;
 }
 #book3:nth-child(14) {
   width: .2%;
@@ -236,7 +231,7 @@
   width: .3%;
   height: 70%;
   text-align: left;
-  background-image: url(assets/purplebands.png);
+  background-image: url();
   background-position: bottom;
   background-size: 130%; 
   background-repeat: no-repeat;
@@ -252,9 +247,9 @@
   width: .6%;
   height: 85%;
   text-align: center;
-  background-image: url();
+  background-image: url(assets/mintbars.png);
   background-position: center;
-  background-size: 100%; 
+  background-size: 180%; 
   background-repeat: repeat;
   background-color: #f0f8d2;
 }

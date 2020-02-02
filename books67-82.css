@@ -6,13 +6,13 @@
   background-position: center;
   background-size: 100%; 
   background-repeat: repeat;
-  background-color: #;
+  background-color: #d6f1f2;
 }
 #book3:nth-child(1) #titles3 {
   margin-bottom: -18px;
   font-family: 'Acme', sans-serif;
   font-size: 13px;
-  color: #;
+  color: #f4e5eb;
   text-shadow: none;
  }
 #book3:nth-child(2) {
@@ -23,14 +23,14 @@
   background-position: top;
   background-size: 140%; 
   background-repeat: no-repeat;
-  background-color: #;
+  background-color: #cef3f5;
 }
 #book3:nth-child(2) #titles3 {
   margin-bottom: -15px;
   margin-top: -12px; 
   font-family: 'Montserrat', sans-serif;
   font-size: 16px;
-  color: #;
+  color: #fae5eb;
   text-shadow: none;
  }
  #book3:nth-child(3) {
@@ -41,13 +41,13 @@
   background-position: bottom;
   background-size: 120%; 
   background-repeat: no-repeat;
-  background-color: #;
+  background-color: #cbf1fa;
 }
 #book3:nth-child(3) #titles3 {
   font-family: 'Alata', sans-serif;
   margin-bottom: -10px;
   font-size: 14px;
-  color: #;
+  color: #ffe3e6;
   text-shadow: none;
  }
  #book3:nth-child(4) {
@@ -58,12 +58,12 @@
   background-position: bottom;
   background-size: 35%; 
   background-repeat: repeat-x;
-  background-color: #;
+  background-color: #fff3cb;
 }
 #book3:nth-child(4) #titles3 {
  font-family: 'Permanent Marker', cursive;
  font-size: 12px;
- color: #;
+ color: #dcdbfe;
  margin-bottom: -20px;
  text-shadow: none;
 }
@@ -75,12 +75,12 @@
   background-position: top;
   background-size: 90%; 
   background-repeat: no-repeat;
-  background-color: #;
+  background-color: #f6f4d2;
 }
 #book3:nth-child(5) #titles3 {
  font-family: 'Special Elite', cursive;
  font-size: 13px;
- color: #;
+ color: #dedefb;
  margin-bottom: 15px;
 }
 #book3:nth-child(6) {
@@ -91,12 +91,12 @@
   background-position: top;
   background-size: 90%; 
   background-repeat: no-repeat;
-  background-color: #;
+  background-color: #f1f4d6;
 }
 #book3:nth-child(6) #titles3 {
  font-family: 'Caveat', cursive;
  font-size: 15px;
- color: #;
+ color: #e3dcfa;
  margin-bottom: -10px;
  text-shadow: none;
 }
@@ -108,14 +108,14 @@
   background-position: center;
   background-size: 150%; 
   background-repeat: repeat;
-  background-color: #;
+  background-color: #ebf2de;
 }
 #book3:nth-child(7) #titles3 {
  margin-bottom: 10px;
  margin-top: -21px;
  font-family: 'Righteous', cursive;
  font-size: 19px;
- color: #;
+ color: #e7ddf8;
 }
 #book3:nth-child(8) {
   width: .6%;
@@ -125,12 +125,12 @@
   background-position: center;
   background-size: 90%; 
   background-repeat: no-repeat;
-  background-color: #;
+  background-color: #e4f6e2;
 }
 #book3:nth-child(8) #titles3 {
   font-family: 'Amarante', cursive;
  font-size: 15px;
- color: #;
+ color: #ebdef7;
  margin-bottom: -8px;
 }
 #book3:nth-child(9) {
@@ -141,12 +141,12 @@
   background-position: top;
   background-size: 170%; 
   background-repeat: no-repeat;
-  background-color: #;
+  background-color: #def5e6;
 }
 #book3:nth-child(9) #titles3 {
  font-family: 'IM Fell Great Primer SC', serif;
  font-size: 13px;
- color: #;
+ color: #eee0fa;
  margin-bottom: -14px;
 }
 #book3:nth-child(10) {
@@ -157,12 +157,12 @@
   background-position: center;
   background-size: 70%; 
   background-repeat: repeat-y;
-  background-color: #;
+  background-color: #d8f4eb;
 }
 #book3:nth-child(10) #titles3 {
   font-family: 'Josefin Sans', sans-serif;
  font-size: 13px;
- color: #;
+ color: #f2ddf2;
  margin-bottom: -3px;
 }
 #book3:nth-child(11) {
@@ -173,13 +173,13 @@
   background-position: center;
   background-size: 350%; 
   background-repeat: repeat;
-  background-color: #;
+  background-color: #d3f5f1;
 }
 #book3:nth-child(11) #titles3 {
  margin-bottom: -35px;
  font-family: 'Pacifico', cursive;
  font-size: 15px;
- color: #;
+ color: #f6e1ee;
  text-shadow: none;
 }
 #book3:nth-child(12) {
@@ -190,13 +190,13 @@
   background-position: bottom;
   background-size: 50%; 
   background-repeat: repeat-x;
-  background-color: #;
+  background-color: #cbf7f4;
 }
 #book3:nth-child(12) #titles3 {
   margin-bottom: -10px;
   font-family: 'Dancing Script', cursive;
   font-size: 20px;
-  color: #;
+  color: #fae1ed;
   text-shadow: none;
  }
  #book3:nth-child(13) {
@@ -207,12 +207,12 @@
   background-position: center;
   background-size: 90%; 
   background-repeat: repeat;
-  background-color: #;
+  background-color: #c8f5fa;
 }
 #book3:nth-child(13) #titles3 {
  font-family: 'Special Elite', cursive;
  font-size: 15px;
- color: #;
+ color: #ffe0eb;
  margin-bottom: -12px;
  text-shadow: none;
 }
@@ -224,12 +224,12 @@
   background-position: top;
   background-size: 350%; 
   background-repeat: no-repeat;
-  background-color: #;
+  background-color: #fff7c6;
 }
 #book3:nth-child(14) #titles3 {
  font-family: 'Caveat', cursive;
  font-size: 15px;
- color: #;
+ color: #e0d7fe;
  margin-bottom: -8px;
 }
 #book3:nth-child(15) {
@@ -240,13 +240,13 @@
   background-position: bottom;
   background-size: 130%; 
   background-repeat: no-repeat;
-  background-color: #;
+  background-color: #f6f7ce;
 }
 #book3:nth-child(15) #titles3 {
  margin-bottom: -20px;
  font-family: 'Zhi Mang Xing', cursive;
  font-size: 16px;
- color: #;
+ color: #e2d9fd;
 }
 #book3:nth-child(16) {
   width: .6%;
@@ -256,14 +256,14 @@
   background-position: center;
   background-size: 100%; 
   background-repeat: repeat;
-  background-color: #;
+  background-color: #f0f8d2;
 }
 #book3:nth-child(16) #titles3 {
  margin-bottom: -1px;
  /* margin-top: -21px; */
  font-family: 'Righteous', cursive;
  font-size: 14px;
- color: #;
+ color: #e5d8fc;
 }
 #book3:nth-child(17) {
   width: .5%;
@@ -273,12 +273,12 @@
   background-position: top;
   background-size: 90%; 
   background-repeat: no-repeat;
-  background-color: #;
+  background-color: #eaf6da;
 }
 #book3:nth-child(17) #titles3 {
   font-family: 'Lobster', cursive;
   font-size: 16px;
-  color: #;
+  color: #e9d9fa;
   margin-bottom: -30px;
   text-shadow: none;
 }

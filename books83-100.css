@@ -9,7 +9,7 @@
   background-color: #e2f9df;
   transform: rotate(-5deg);
   margin-left: 4px; 
-  margin-bottom: 24.5px;
+  margin-bottom: 21.9px;
 }
 #book3:nth-child(18) #titles3 {
   font-family: 'Shadows Into Light', cursive;
@@ -20,7 +20,7 @@
 }
 #book3:nth-child(19) {
   width: 10%;
-  height: 13%;
+  height: 11%;
   text-align: center;
   background-image: url(assets/pinktab.png);
   background-position: left;

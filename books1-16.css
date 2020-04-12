@@ -1,25 +1,27 @@
 @import url('https://fonts.googleapis.com/css?family=Anton|Bangers|Caveat|Indie+Flower|Lobster|Muli|Permanent+Marker|Righteous|Six+Caps|Special+Elite|Zhi+Mang+Xing&display=swap');
 /* book one */
 #book1:nth-child(1) {
-  width: 2.5%;
-  height: 85%;
+  width: 2.5vw;
+  height: 25vh;
   text-align: center;
   background-image: url(assets/purpletab.png);
   background-position: top;
   background-size: 90%; 
   background-repeat: no-repeat;
   background-color: #ffd9f7;
+  overflow: hidden;
 }
 #book1:nth-child(1) #titles1 {
   font-family: 'Anton', cursive;
-  font-size: 14px;
+  font-size: 1.2vw;
   color: #c0fff8;
   text-shadow: none;
+  overflow: hidden;
 }
 /* book two */
 #book1:nth-child(2) {
-  width: 1%;
-  height: 70%;
+  width: 1vw;
+  height: 21vh;
   text-align: left;
   background-image: url(assets/greenbands.png);
   background-position: bottom;
@@ -29,14 +31,14 @@
 }
 #book1:nth-child(2) #titles1 {
  margin-bottom: -40px;
- font-size: 15px;
+ font-size: 2.2vh;
  color: #c6fef2;
  text-shadow: none;
 }
 /* book3 */
 #book1:nth-child(3) {
-  width: 1%;
-  height: 80%;
+  width: 1vw;
+  height: 20vh;
   text-align: left;
   background-image: url();
   background-position: top;
@@ -47,7 +49,7 @@
 #book1:nth-child(3) #titles1 {
  margin-bottom: -40px;
  font-family: 'Indie Flower', cursive;
- font-size: 17px;
+ font-size: 2.5vh;
  color: #cdfeed;
  text-shadow: none;
 }
@@ -83,7 +85,7 @@
 }
 #book1:nth-child(5) #titles1 {
  font-family: 'Righteous', cursive;
- font-size: 17px;
+ font-size: 2vh;
  color: #dafde1;
  margin-bottom: -30px;
 }

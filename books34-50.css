@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Acme|Alata|Amarante|Dancing+Script|IM+Fell+Great+Primer+SC|Josefin+Sans|Montserrat|Pacifico|Shadows+Into+Light&display=swap');
 #book2:nth-child(1) {
-  width: 1.2vw;
+  /* width: 1.2vw; */
   height: 25vh;
   text-align: right;
   background-image: url();
@@ -12,11 +12,11 @@
 #book2:nth-child(1) #titles2 {
   margin-top: -5px; 
   font-family: 'Montserrat', sans-serif;
-  font-size: 1vw;
+  /* font-size: 1vw; */
   color: #daf1ed;
  }
  #book2:nth-child(2) {
-  width: .3vw;
+  /* width: .3vw; */
   height: 19vh;
   text-align: left;
   background-image: url(assets/peacharrows.png);
@@ -28,11 +28,11 @@
 #book2:nth-child(2) #titles2 {
  font-family: 'Alata', sans-serif;
  margin-bottom: -40px;
- font-size: 1.3vw;
+ /* font-size: 1.3vw; */
  color: #e0f1ea;
 }
 #book2:nth-child(3) {
-  width: 1vw;
+  /* width: 1vw; */
   height: 22vh;
   text-align: left;
   background-image: url(assets/pinktab.png);
@@ -44,100 +44,100 @@
 #book2:nth-child(3) #titles2 {
  margin-bottom: -10px;
  font-family: 'Amarante', cursive;
- font-size: 1vw;
+ /* font-size: 1vw; */
  color: #e5f2e6;
  text-shadow: none;
 }
 #book2:nth-child(4) {
-  width: 10vw;
-  height: 4vh;
+  /* width: 10vw; */
+  height: 19vh;
   text-align: center;
   background-image: url(assets/minttab.png);
-  background-position: left;
-  background-size: 25%; 
+  background-position: top;
+  background-size: 100%; 
   background-repeat: no-repeat;
   background-color:#e4e2f5 ;
-  margin-bottom: 0px;
-  margin-left: 0px;
+  /* margin-bottom: 0px;
+  margin-left: 0px; */
 }
 #book2:nth-child(4) #titles2 {
  font-family: 'IM Fell Great Primer SC', serif;
- transform: rotate(0deg);
- font-size: 1.4vw;
+ /* transform: rotate(0deg); */
+ /* font-size: 1.4vw; */
  color: #edefe1;
  margin-bottom: -10px;
- position: fixed;
+ /* position: fixed;
  left: 10%;
- top: 58%;
+ top: 58%; */
  text-shadow: none;
 }
 #book2:nth-child(5) {
-  width: 18vh;
-  height: 4vh;
+  /* width: 18vh; */
+  height: 19vh;
   text-align: center;
   background-image: url();
   background-position: right;
   background-size: 25%; 
   background-repeat: no-repeat;
   background-color: #dfe2f8;
-  margin-bottom: 23px;
-  margin-left: -140px;
+  /* margin-bottom: 23px;
+  margin-left: -140px; */
 }
 #book2:nth-child(5) #titles2 {
 font-family: 'Josefin Sans', sans-serif;
- transform: rotate(0deg);
- margin-bottom: -10px;
- font-size: .6vw;
+ /* transform: rotate(0deg); */
+ /* margin-bottom: -10px; */
+ font-size: .5vw;
  color: #f2f2da;
  text-shadow: none;
 }
 #book2:nth-child(6) {
-  width: 8vw;
-  height: 4vh;
+  /* width: 8vw; */
+  height: 19vh;
   text-align: center;
   background-image: url(assets/bluebands.png);
-  background-position: right;
-  background-size: 15%; 
+  background-position: bottom;
+  background-size: 100%; 
   background-repeat: no-repeat;
   background-color: #dae2f9;
-  margin-bottom: 47px;
-  margin-left: -140px;
+  /* margin-bottom: 47px;
+  margin-left: -140px; */
 }
 #book2:nth-child(6) #titles2 {
   font-family: 'Pacifico', cursive;
-  font-size: 1.2vw;
-  transform: rotate(0deg);
-  margin-top: -4px;
+  /* font-size: 1.2vw; */
+  /* transform: rotate(0deg); */
+  margin-top: -20px;
   color: #f7f0d7;
-  position: fixed;
+  /* position: fixed;
   left: 10%;
-  top: 53%;
+  top: 53%; */
   text-shadow: none;
 }
 #book2:nth-child(7) {
-  width: 9vw;
-  height: 4vh;
+  /* width: 9vw; */
+  height: 19vh;
   text-align: center;
   background-image: url(assets/pinktab.png);
-  background-position: top right;
-  background-size: 14%; 
+  background-position: top;
+  background-size: 100%; 
   background-repeat: no-repeat;
   background-color: #d8e1fd;
-  margin-bottom: 73px;
-  margin-left: -127px;
+  /* margin-bottom: 73px;
+  margin-left: -127px; */
 }
 #book2:nth-child(7) #titles2 {
   font-family: 'Dancing Script', cursive;
-  font-size: 1vw;
-  transform: rotate(0deg);
-  margin-top: 2px;
+  /* font-size: 1vw; */
+  /* transform: rotate(0deg); */
+  margin-top: -10px;
   color: #fff0d1;
-  position: fixed;
+  /* position: fixed;
   left: 10%;
-  top: 49%;
+  top: 49%; */
 }
 #book2:nth-child(8) {
-  width: .4vw;
+  /* width: .4vw; */
   height: 22vh;
   text-align: center;
   background-image: url(assets/pinkbanner.png);
@@ -149,13 +149,13 @@ font-family: 'Josefin Sans', sans-serif;
 }
 #book2:nth-child(8) #titles2 {
   font-family: 'Shadows Into Light', cursive;
-  font-size: .9vw;
+  /* font-size: .9vw; */
   color:#cfebfb ;
   margin-top: 1px;
   margin-right: -10px;
 }
 #book2:nth-child(9) {
-  width: .3vw;
+  /* width: .3vw; */
   height: 21vh;
   text-align: left;
   background-image: url();
@@ -166,12 +166,12 @@ font-family: 'Josefin Sans', sans-serif;
 }
 #book2:nth-child(9) #titles2 {
   font-family: 'Acme', sans-serif;
-  font-size: 1.3vw;
+  /* font-size: 1.3vw; */
   color: #d3eef7;
   margin-bottom: -20px;
 }
 #book2:nth-child(10) {
-  width: .7vw;
+  /* width: .7vw; */
   height: 25vh;
   text-align: center;
   background-image: url();
@@ -182,11 +182,11 @@ font-family: 'Josefin Sans', sans-serif;
 }
 #book2:nth-child(10) #titles2 {
   font-family: 'Montserrat', sans-serif;
-  font-size: .9vw;
+  /* font-size: .9vw; */
   color: #d8ecf4;
 }
 #book2:nth-child(11) {
-  width: 1vw;
+  /* width: 1vw; */
   height: 23vh;
   text-align: center;
   background-image: url(assets/yellowbanner.png);
@@ -197,13 +197,13 @@ font-family: 'Josefin Sans', sans-serif;
 }
 #book2:nth-child(11) #titles2 {
   font-family: 'Alata', sans-serif;
-  font-size: 1.2vw;
+  /* font-size: 1.2vw; */
   color: #deebf1;
   margin-bottom: -4px;
   text-shadow: none;
 }
 #book2:nth-child(12) {
-  width: .6vw;
+  /* width: .6vw; */
   height: 24vh;
   text-align: center;
   background-image: url(assets/bluebanner.png);
@@ -219,7 +219,7 @@ font-family: 'Josefin Sans', sans-serif;
  margin-bottom: -6px;
 }
 #book2:nth-child(13) {
-  width: 1vw;
+  /* width: 1vw; */
   height: 28vh;
   text-align: left;
   background-image: url(assets/perriwinklebars.png);
@@ -230,11 +230,11 @@ font-family: 'Josefin Sans', sans-serif;
 }
 #book2:nth-child(13) #titles2 {
  font-family: 'IM Fell Great Primer SC', serif;
- font-size: 1.2vw;
+ /* font-size: 1.2vw; */
  color: #e8ede8;
 }
 #book2:nth-child(14) {
-  width: 1vw;
+  /* width: 1vw; */
   height: 22vh;
   text-align: left;
   background-image: url(assets/mintarrows.png);
@@ -245,12 +245,12 @@ font-family: 'Josefin Sans', sans-serif;
 }
 #book2:nth-child(14) #titles2 {
   font-family: 'Josefin Sans', sans-serif;
- font-size: 1vw;
+ /* font-size: 1vw; */
  color: #eeebe5;
  margin-bottom: -3px;
 }
 #book2:nth-child(15) {
-  width: .1vw;
+  /* width: .1vw; */
   height: 19vh;
   text-align: left;
   background-image: url();
@@ -262,12 +262,12 @@ font-family: 'Josefin Sans', sans-serif;
 #book2:nth-child(15) #titles2 {
  margin-bottom: -25px;
  font-family: 'Pacifico', cursive;
- font-size: .9vw;
+ /* font-size: .9vw; */
  color: #f3eddf;
  text-shadow: none;
 }
 #book2:nth-child(16) {
-  width: 1.2vw;
+  /* width: 1.2vw; */
   height: 27vh;
   text-align: left;
   background-image: url(assets/greenbands.png);
@@ -279,7 +279,7 @@ font-family: 'Josefin Sans', sans-serif;
 #book2:nth-child(16) #titles2 {
   margin-bottom: 5px;
   font-family: 'Dancing Script', cursive;
-  font-size: 1vw;
+  /* font-size: 1vw; */
   color: #f8ecdd;
   text-shadow: none;
  }

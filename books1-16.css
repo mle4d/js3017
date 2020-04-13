@@ -103,14 +103,8 @@
   background-color: #efd6fc;
   font-family: 'Six Caps', sans-serif;
   color: #e0fddc;
+  letter-spacing: 5px;
 }
-/* #book1:nth-child(6) #titles1 {
-  font-family: 'Six Caps', sans-serif;
-  font-size: 2.2vw;
-  color: #e0fddc;
-  margin-bottom: -55px;
-  text-shadow: none;
-} */
 #book1:nth-child(7) {
   width: .5vw;
   height: 24vh;

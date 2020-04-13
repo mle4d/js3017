@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Anton|Bangers|Caveat|Indie+Flower|Lobster|Muli|Permanent+Marker|Righteous|Six+Caps|Special+Elite|Zhi+Mang+Xing&display=swap');
 /* book one */
 #book1:nth-child(1) {
-  width: 2.5vw;
+  /* width: 2.5vw; */
   height: 25vh;
   text-align: center;
   background-image: url(assets/purpletab.png);
@@ -10,17 +10,19 @@
   background-repeat: no-repeat;
   background-color: #ffd9f7;
   overflow: hidden;
-}
-#book1:nth-child(1) #titles1 {
   font-family: 'Anton', cursive;
-  font-size: 1.2vw;
   color: #c0fff8;
-  text-shadow: none;
-  overflow: hidden;
+  line-height: 12px;
 }
+/* #book1:nth-child(1) #titles1 { */
+  /* font-family: 'Anton', cursive;
+  color: #c0fff8; */
+  /* text-shadow: none; */
+  /* overflow: hidden; */
+/* } */
 /* book two */
 #book1:nth-child(2) {
-  width: 1vw;
+  /* width: 1vw; */
   height: 21vh;
   text-align: left;
   background-image: url(assets/greenbands.png);
@@ -31,13 +33,12 @@
 }
 #book1:nth-child(2) #titles1 {
  margin-bottom: -40px;
- font-size: 1.2vw;
  color: #c6fef2;
  text-shadow: none;
 }
 /* book3 */
 #book1:nth-child(3) {
-  width: 1vw;
+  /* width: 1vw; */
   height: 20vh;
   text-align: left;
   background-image: url();
@@ -49,15 +50,15 @@
 #book1:nth-child(3) #titles1 {
  margin-bottom: -40px;
  font-family: 'Indie Flower', cursive;
- font-size: 1.2vw;
+ /* font-size: 2vmin; */
  color: #cdfeed;
  text-shadow: none;
 }
 /* book4 */
 #book1:nth-child(4) {
-  width: 2vw;
+  /* width: .5vw; */
   height: 23vh;
-  text-align: left;
+  text-align: center;
   background-image: url(assets/perriwinklebars.png);
   background-position: center;
   background-size: 100%; 
@@ -66,49 +67,53 @@
 }
 #book1:nth-child(4) #titles1 {
   font-family: 'Special Elite', cursive;
-  font-size: 1.1vw;
+  /* font-size: 1.5vmin; */
   color: #d3fde7;
- margin-bottom: 2px;
- margin-right: -13px;
+ /* margin-bottom: 4vmax; */
+ margin-bottom: -25%;
  text-align: center;
  text-shadow: none;
 }
 #book1:nth-child(5) {
-  width: 1vw;
+  /* width: .5vw; */
   height: 21vh;
-  text-align: left;
+  text-align: center;
   background-image: url();
   background-position: top;
   background-size: 90%; 
   background-repeat: no-repeat;
   background-color: #f2d7fb;
+  line-height: 8px;
+  color: #dafde1;
 }
-#book1:nth-child(5) #titles1 {
- font-family: 'Righteous', cursive;
- font-size: 1.4vw;
- color: #dafde1;
+/* #book1:nth-child(5) #titles1 {
+ font-family: 'Righteous', cursive; */
+ /* font-size: 1vw; */
+ /* color: #dafde1;
  margin-bottom: -40px;
-}
+} */
 #book1:nth-child(6) {
-  width: 1vw;
+  width: .5vw;
   height: 23vh;
-  text-align: left;
+  text-align: center;
   background-image: url(assets/pinkbanner.png);
   background-position: center;
   background-size: 100%; 
   background-repeat: no-repeat;
   background-color: #efd6fc;
+  font-family: 'Six Caps', sans-serif;
+  color: #e0fddc;
 }
-#book1:nth-child(6) #titles1 {
+/* #book1:nth-child(6) #titles1 {
   font-family: 'Six Caps', sans-serif;
   font-size: 2.2vw;
   color: #e0fddc;
   margin-bottom: -55px;
   text-shadow: none;
-}
+} */
 #book1:nth-child(7) {
-  width: 10vw;
-  height: 3vh;
+  width: .5vw;
+  height: 24vh;
   text-align: center;
   background-position: top;
   background-size: 90%; 
@@ -116,54 +121,47 @@
   background-color: #ebd5fc;
 }
 #book1:nth-child(7) #titles1 {
- transform: rotate(0deg);
- margin-top: 1vh;
+ /* margin-top: 1vh; */
  font-family: 'Special Elite', cursive;
- font-size: 1vw;
+ /* font-size: .7vw; */
  color: #effbce;
  text-shadow: none;
 }
 #book1:nth-child(8) {
-  width: 10vw;
-  height: 4vh;
+  /* width: .5vw; */
+  height: 21vh;
   text-align: center;
   background-image: url(assets/pinkbanner.png);
   background-position: right;
   background-size: 25%; 
   background-repeat: no-repeat;
   background-color: #e8d4fd;
-  margin-bottom: 20px;
-  margin-left: -140px;
 }
 #book1:nth-child(8) #titles1 {
- transform: rotate(0deg);
  margin-top: 1px;
- font-size: 1.2vw;
+ /* font-size: 1.2vw; */
  color: #fffbce;
  text-shadow: none;
 }
 #book1:nth-child(9) {
-  width: 10vw;
-  height: 3vh;
+  /* width: .5vw; */
+  height: 21vh;
   text-align: center;
   background-image: url();
   background-position: top;
   background-size: 90%; 
   background-repeat: no-repeat;
   background-color: #e6d3fe;
-  margin-bottom: 44px;
-  margin-left: -144px;
 }
 #book1:nth-child(9) #titles1 {
   font-family: 'Anton', sans-serif;
-  font-size: 1vw;
+  /* font-size: .5vw; */
   color: #f5fbc9;
-  transform: rotate(0deg);
   margin-top: 1px;
   text-shadow: none;
 }
 #book1:nth-child(10) {
-  width: 1vw;
+  /* width: 1vw; */
   height: 20vh;
   text-align: left;
   background-image: url();
@@ -174,13 +172,13 @@
 }
 #book1:nth-child(10) #titles1 {
   font-family: 'Lobster', cursive;
-  font-size: 1.2vw;
+  /* font-size: 1.2vw; */
   color: #fffac0;
   margin-bottom: -40px;
   text-shadow: none;
 }
 #book1:nth-child(11) {
-  width: .7vw;
+  /* width: .7vw; */
   height: 24vh;
   text-align: left;
   background-image: url();
@@ -191,13 +189,13 @@
 }
 #book1:nth-child(11) #titles1 {
   font-family: 'Zhi Mang Xing', cursive;
-  font-size: 1.8vw;
+  /* font-size: 1.8vw; */
   color: #c4f9f9;
   margin-bottom: -30px;
   text-shadow: none;
 }
 #book1:nth-child(12) {
-  width: 1.8vw;
+  /* width: 1.8vw; */
   height: 22vh;
   text-align: left;
   background-image: url(assets/purplearrows.png);
@@ -213,7 +211,7 @@
  margin-bottom: -30px;
 }
 #book1:nth-child(13) {
-  width: .6vw;
+  /* width: .6vw; */
   height: 18vh;
   text-align: left;
   background-image: url(assets/purplebars.png);
@@ -224,13 +222,13 @@
 }
 #book1:nth-child(13) #titles1 {
  font-family: 'Permanent Marker', cursive;
- font-size: 1.5vw;
+ /* font-size: 1.5vw; */
  color: #d0faef;
  margin-bottom: -70px;
  text-shadow: none;
 }
 #book1:nth-child(14) {
-  width: 1vw;
+  /* width: 1vw; */
   height: 26vh;
   text-align: left;
   background-image: url();
@@ -241,12 +239,12 @@
 }
 #book1:nth-child(14) #titles1 {
  font-family: 'Special Elite', cursive;
- font-size: 1.2vw;
+ /* font-size: 1.2vw; */
  color: #d6f9e9;
  margin-bottom: -10px;
 }
 #book1:nth-child(15) {
-  width: 1.5vh;
+  /* width: 1.5vh; */
   height: 15vh;
   text-align: left;
   background-image: url();
@@ -257,14 +255,14 @@
 }
 #book1:nth-child(15) #titles1 {
  font-family: 'Caveat', cursive;
- font-size: 1.3vw;
+ /* font-size: 1.3vw; */
  line-height: 10px;
  color: #dcf9e4;
  margin-bottom: -80px;
  text-shadow: none;
 }
 #book1:nth-child(16) {
-  width: .1vw;
+  /* width: .1vw; */
   height: 18vh;
   text-align: center;
   background-image: url(assets/peacharrows.png);
@@ -275,8 +273,8 @@
 }
 #book1:nth-child(16) #titles1 {
  margin-bottom: -40px;
- margin-top: -21px;
+ margin-top: -5px;
  font-family: 'Righteous', cursive;
- font-size: 1.8vw;
+ font-size: 100%;
  color: #e2f9df;
 }

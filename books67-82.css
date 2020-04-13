@@ -1,5 +1,5 @@
 #book3:nth-child(1) {
-  width: .1vw;
+  /* width: .1vw; */
   height: 20vh;
   text-align: left;
   background-image: url();
@@ -11,11 +11,11 @@
 #book3:nth-child(1) #titles3 {
   margin-bottom: -18px;
   font-family: 'Acme', sans-serif;
-  font-size: 1vw;
+  /* font-size: 1vw; */
   color: #f4e5eb;
  }
 #book3:nth-child(2) {
-  width: .2vw;
+  /* width: .2vw; */
   height: 17vh;
   text-align: center;
   background-image: url(assets/pinktab.png);
@@ -28,11 +28,11 @@
   margin-bottom: -15px;
   margin-top: -12px; 
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.1vw;
+  /* font-size: 1.1vw; */
   color: #fae5eb;
  }
  #book3:nth-child(3) {
-  width: .3vw;
+  /* width: .3vw; */
   height: 25vh;
   text-align: left;
   background-image: url();
@@ -43,12 +43,12 @@
 }
 #book3:nth-child(3) #titles3 {
   font-family: 'Alata', sans-serif;
-  margin-bottom: -10px;
-  font-size: 1.1vw;
+  /* margin-bottom: -10px; */
+  /* font-size: 1.1vw; */
   color: #ffe3e6;
  }
  #book3:nth-child(4) {
-  width: .6vw;
+  /* width: .6vw; */
   height: 20vh;
   text-align: left;
   background-image: url(assets/purplebars.png);
@@ -59,13 +59,13 @@
 }
 #book3:nth-child(4) #titles3 {
  font-family: 'Permanent Marker', cursive;
- font-size: 1vw;
+ /* font-size: 1vw; */
  color: #dcdbfe;
  margin-bottom: -20px;
  text-shadow: none;
 }
 #book3:nth-child(5) {
-  width: .2vw;
+  /* width: .2vw; */
   height: 28vh;
   text-align: left;
   background-image: url();
@@ -76,12 +76,12 @@
 }
 #book3:nth-child(5) #titles3 {
  font-family: 'Special Elite', cursive;
- font-size: 1.1vw;
+ /* font-size: 1.1vw; */
  color: #dedefb;
- margin-bottom: 15px;
+ margin-bottom: 30px;
 }
 #book3:nth-child(6) {
-  width: .5vw;
+  /* width: .5vw; */
   height: 21vh;
   text-align: left;
   background-image: url();
@@ -92,13 +92,13 @@
 }
 #book3:nth-child(6) #titles3 {
  font-family: 'Caveat', cursive;
- font-size: 1.1vw;
+ /* font-size: 1.1vw; */
  color: #e3dcfa;
  margin-bottom: -18px;
  text-shadow: none;
 }
 #book3:nth-child(7) {
-  width: 1.7vw;
+  /* width: 1.7vw; */
   height: 22vh;
   text-align: center;
   background-image: url(assets/peacharrows.png);
@@ -108,14 +108,14 @@
   background-color: #ebf2de;
 }
 #book3:nth-child(7) #titles3 {
- margin-bottom: 10px;
- margin-top: -21px;
+ /* margin-bottom: 10px; */
+ /* margin-top: -21px; */
  font-family: 'Righteous', cursive;
- font-size: 1.5vw;
+ /* font-size: 1.5vw; */
  color: #e7ddf8;
 }
 #book3:nth-child(8) {
-  width: .6vw;
+  /* width: .6vw; */
   height: 24vh;
   text-align: left;
   background-image: url(assets/bluebanner.png);
@@ -126,12 +126,12 @@
 }
 #book3:nth-child(8) #titles3 {
   font-family: 'Amarante', cursive;
- font-size: 1.2vw;
+ /* font-size: 1.2vw; */
  color: #ebdef7;
  margin-bottom: -8px;
 }
 #book3:nth-child(9) {
-  width: .5vw;
+  /* width: .5vw; */
   height: 19vh;
   text-align: left;
   background-image: url(assets/pinktab.png);
@@ -142,12 +142,12 @@
 }
 #book3:nth-child(9) #titles3 {
  font-family: 'IM Fell Great Primer SC', serif;
- font-size: 1vw;
+ /* font-size: 1vw; */
  color: #eee0fa;
  margin-bottom: -24px;
 }
 #book3:nth-child(10) {
-  width: .8vw;
+  /* width: .8vw; */
   height: 24vh;
   text-align: left;
   background-image: url(assets/mintarrows.png);
@@ -158,12 +158,12 @@
 }
 #book3:nth-child(10) #titles3 {
   font-family: 'Josefin Sans', sans-serif;
- font-size: 1vw;
+ /* font-size: 1vw; */
  color: #f2ddf2;
  margin-bottom: -8px;
 }
 #book3:nth-child(11) {
-  width: .3vw;
+  /* width: .3vw; */
   height: 20vh;
   text-align: left;
   background-image: url();
@@ -173,13 +173,13 @@
   background-color: #d3f5f1;
 }
 #book3:nth-child(11) #titles3 {
- margin-bottom: -45px;
+ margin-bottom: -25px;
  font-family: 'Pacifico', cursive;
- font-size: 1.1vw;
+ /* font-size: 1.1vw; */
  color: #f6e1ee;
 }
 #book3:nth-child(12) {
-  width: .6vw;
+  /* width: .6vw; */
   height: 27vh;
   text-align: left;
   background-image: url(assets/greenbands.png);
@@ -189,14 +189,14 @@
   background-color: #cbf7f4;
 }
 #book3:nth-child(12) #titles3 {
-  margin-bottom: -5px;
+  /* margin-bottom: -5px; */
   font-family: 'Dancing Script', cursive;
-  font-size: 1.8vw;
+  /* font-size: 1.8vw; */
   color: #fae1ed;
   text-shadow: none;
  }
  #book3:nth-child(13) {
-  width: .6vw;
+  /* width: .6vw; */
   height: 24vh;
   text-align: left;
   background-image: url(assets/perriwinklebars.png);
@@ -207,11 +207,11 @@
 }
 #book3:nth-child(13) #titles3 {
  font-family: 'Special Elite', cursive;
- font-size: 1.1vw;
+ /* font-size: 1.1vw; */
  color: #ffe0eb;
 }
 #book3:nth-child(14) {
-  width: .2vw;
+  /* width: .2vw; */
   height: 28vh;
   text-align: left;
   background-image: url(assets/pinktab.png);
@@ -222,12 +222,12 @@
 }
 #book3:nth-child(14) #titles3 {
  font-family: 'Caveat', cursive;
- font-size: 1.2vw;
+ /* font-size: 1.2vw; */
  color: #e0d7fe;
- margin-bottom: 6px;
+ /* margin-bottom: 6px; */
 }
 #book3:nth-child(15) {
-  width: .3vw;
+  /* width: .3vw; */
   height: 20vh;
   text-align: left;
   background-image: url();
@@ -239,11 +239,11 @@
 #book3:nth-child(15) #titles3 {
  margin-bottom: -30px;
  font-family: 'Zhi Mang Xing', cursive;
- font-size: 1.2vw;
+ /* font-size: 1.2vw; */
  color: #e2d9fd;
 }
 #book3:nth-child(16) {
-  width: .6vw;
+  /* width: .6vw; */
   height: 27vh;
   text-align: center;
   background-image: url(assets/mintbars.png);
@@ -255,11 +255,11 @@
 #book3:nth-child(16) #titles3 {
  margin-bottom: 6px;
  font-family: 'Righteous', cursive;
- font-size: 1.2vw;
+ /* font-size: 1.2vw; */
  color: #e5d8fc;
 }
 #book3:nth-child(17) {
-  width: .5vw;
+  /* width: .5vw; */
   height: 21vh;
   text-align: left;
   background-image: url();
@@ -270,7 +270,7 @@
 }
 #book3:nth-child(17) #titles3 {
   font-family: 'Lobster', cursive;
-  font-size: 1.2vw;
+  /* font-size: 1.2vw; */
   color: #e9d9fa;
   margin-bottom: -30px;
   text-shadow: none;

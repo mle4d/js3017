@@ -15,7 +15,7 @@ body {
   align-content: flex-start;
   align-self: flex-start;
 }
-.troll {
+/* .troll {
   background-image: url(assets/troll.png);
   background-size: 30%;
   background-repeat: no-repeat;
@@ -99,4 +99,4 @@ body {
   transform: rotate(3deg);
   -webkit-filter: drop-shadow( 0 0 3px rgb(36, 36, 36));
   filter: drop-shadow( 0 0 3px rgb(36, 36, 36));
-}
+} */

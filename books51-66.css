@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Acme|Alata|Amarante|Dancing+Script|IM+Fell+Great+Primer+SC|Josefin+Sans|Montserrat|Pacifico|Shadows+Into+Light&display=swap');
 #book2:nth-child(17) {
-  width: .3%;
-  height: 58%;
+  width: .3vw;
+  height: 16vh;
   text-align: left;
   background-image: url();
   background-position: top;
@@ -11,14 +11,14 @@
 }
 #book2:nth-child(17) #titles2 {
  font-family: 'Shadows Into Light', cursive;
- font-size: 15px;
+ font-size: 1.4vw;
  color: #ffecd7;
  margin-bottom: -50px;
  text-shadow: none;
 }
 #book2:nth-child(18) {
-  width: 1%;
-  height: 65%;
+  width: 1vw;
+  height: 19vh;
   text-align: left;
   background-image: url();
   background-position: top;
@@ -28,13 +28,13 @@
 }
 #book2:nth-child(18) #titles2 {
 font-family: 'Acme', sans-serif;
- font-size: 15px;
+ font-size: 1.4vw;
  color: #d4e6fc;
  margin-bottom: -20px;
 }
 #book2:nth-child(19) {
-  width: .1%;
-  height: 70%;
+  width: .1vw;
+  height: 21vh;
   text-align: center;
   background-image: url(assets/purplebands.png);
   background-position: top;
@@ -45,12 +45,12 @@ font-family: 'Acme', sans-serif;
 #book2:nth-child(19) #titles2 {
  margin-bottom: -15px;
  font-family: 'Montserrat', sans-serif;
- font-size: 10px;
+ font-size: .9vw;
  color: #d6e8f8;
 }
 #book2:nth-child(20) {
-  width: 1%;
-  height: 85%;
+  width: 1vw;
+  height: 25vh;
   text-align: left;
   background-image: url(assets/pinkbanner.png);
   background-position: top;
@@ -60,12 +60,12 @@ font-family: 'Acme', sans-serif;
 }
 #book2:nth-child(20) #titles2 {
   font-family: 'Alata', sans-serif;
-  font-size: 12px;
+  font-size: 1.2vw;
   color: #dde7f6;
  }
  #book2:nth-child(21) {
-  width: 1%;
-  height: 73%;
+  width: 1vw;
+  height: 23vh;
   text-align: left;
   background-image: url();
   background-position: top;
@@ -75,13 +75,13 @@ font-family: 'Acme', sans-serif;
 }
 #book2:nth-child(21) #titles2 {
   font-family: 'Amarante', cursive;
-  font-size: 14px;
+  font-size: 1.2vw;
   color: #e0e6f3;
   margin-bottom: -10px;
 }
 #book2:nth-child(22) {
-  width: .7%;
-  height: 84%;
+  width: .7vw;
+  height: 28vh;
   text-align: center;
   background-image: url(assets/purplearrows.png);
   background-position: center;
@@ -91,12 +91,12 @@ font-family: 'Acme', sans-serif;
 }
 #book2:nth-child(22) #titles2 {
   font-family: 'IM Fell Great Primer SC', serif;
-  font-size: 12px;
+  font-size: 1vw;
   color: #e5e7f0;
 }
 #book2:nth-child(23) {
-  width: .2%;
-  height: 80%;
+  width: .2vw;
+  height: 22vh;
   text-align: center;
   background-image: url(assets/yellowbanner.png);
   background-position: center;
@@ -106,12 +106,14 @@ font-family: 'Acme', sans-serif;
 }
 #book2:nth-child(23) #titles2 {
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 9px;
-  color: #eae9ed ;
+  font-size: .9vw;
+  color: #eae9ed;
+  margin-bottom: -3px;
+
 }
 #book2:nth-child(24) {
-  width: .6%;
-  height: 70%;
+  width: .6vw;
+  height: 19vh;
   text-align: left;
   background-image: url();
   background-position: top;
@@ -121,13 +123,13 @@ font-family: 'Acme', sans-serif;
 }
 #book2:nth-child(24) #titles2 {
  font-family: 'Pacifico', cursive;
- font-size: 18px;
+ font-size: 1.3vw;
  color: #efe6e9;
  margin-bottom: -30px;
 }
 #book2:nth-child(25) {
-  width: 8%;
-  height: 14%;
+  width: 8vw;
+  height: 4vh;
   text-align: center;
   background-image: url(assets/pinkbanner.png);
   background-position: right;
@@ -139,14 +141,14 @@ font-family: 'Acme', sans-serif;
 }
 #book2:nth-child(25) #titles2 {
   font-family: 'Dancing Script', cursive;
-  font-size: 13px;
+  font-size: 1vw;
   transform: rotate(0deg);
-  margin-bottom: 1px;
+  margin-bottom: 2px;
   color: #f3e9e4;
 }
 #book2:nth-child(26) {
-  width: 8%;
-  height: 16%;
+  width: 8vw;
+  height: 5vh;
   text-align: center;
   background-image: url(assets/purplebands.png);
   background-position: right;
@@ -158,14 +160,14 @@ font-family: 'Acme', sans-serif;
 }
 #book2:nth-child(26) #titles2 {
   font-family: 'Shadows Into Light', cursive;
-  font-size: 10px;
+  font-size: .8vw;
   transform: rotate(0deg);
   margin-bottom: -2px;
   color: #f9e8e2;
 }
 #book2:nth-child(27) {
-  width: .3%;
-  height: 70%;
+  width: .3vw;
+  height: 20vh;
   text-align: left;
   background-image: url();
   background-position: center;
@@ -176,13 +178,13 @@ font-family: 'Acme', sans-serif;
 #book2:nth-child(27) #titles2 {
   margin-bottom: -10px;
   font-family: 'Acme', sans-serif;
-  font-size: 13px;
+  font-size: 1vw;
   color: #ffe8de;
   text-shadow: none;
  }
 #book2:nth-child(28) {
-  width: .2%;
-  height: 60%;
+  width: .2vw;
+  height: 16vh;
   text-align: center;
   background-image: url(assets/minttab.png);
   background-position: top;
@@ -194,13 +196,13 @@ font-family: 'Acme', sans-serif;
   margin-bottom: -15px;
   margin-top: -12px; 
   font-family: 'Montserrat', sans-serif;
-  font-size: 16px;
+  font-size: 1.2vw;
   color: #d8e1fd;
   text-shadow: none;
  }
  #book2:nth-child(29) {
-  width: .3%;
-  height: 70%;
+  width: .3vw;
+  height: 20vh;
   text-align: left;
   background-image: url();
   background-position: bottom;
@@ -211,13 +213,13 @@ font-family: 'Acme', sans-serif;
 #book2:nth-child(29) #titles2 {
  font-family: 'Alata', sans-serif;
  margin-bottom: -30px;
- font-size: 17px;
+ font-size: 1.3vw;
  color: #dae2f9;
  text-shadow: none;
 }
 #book2:nth-child(30) {
-  width: .1%;
-  height: 55%;
+  width: .1vw;
+  height: 15vh;
   text-align: left;
   background-image: url(assets/purplearrows.png);
   background-position: center;
@@ -226,14 +228,14 @@ font-family: 'Acme', sans-serif;
   background-color: #f2f2da;
 }
 #book2:nth-child(30) #titles2 {
- margin-bottom: -60px;
+ margin-bottom: -70px;
  font-family: 'Amarante', cursive;
- font-size: 19px;
+ font-size: 1.5vw;
  color: #dfe2f8;
 }
 #book2:nth-child(31) {
-  width: .2%;
-  height: 78%;
+  width: .2vw;
+  height: 21vh;
   text-align: center;
   background-image: url(assets/bluebands.png);
   background-position: top;
@@ -243,14 +245,14 @@ font-family: 'Acme', sans-serif;
 }
 #book2:nth-child(31) #titles2 {
   font-family: 'IM Fell Great Primer SC', serif;
-  font-size: 17px;
+  font-size: 1.1vw;
   color: #e4e2f5;
   margin-bottom: -12px;
   text-shadow: none;
 }
 #book2:nth-child(32) {
-  width: .1%;
-  height: 83%;
+  width: .1vw;
+  height: 26vh;
   text-align: center;
   background-image: url(assets/);
   background-position: center;
@@ -260,12 +262,12 @@ font-family: 'Acme', sans-serif;
 }
 #book2:nth-child(32) #titles2 {
   font-family: 'Josefin Sans', sans-serif;
-  font-size: 12px;
+  font-size: 1vw;
   color: #e8e2f3;
 }
 #book2:nth-child(33) {
-  width: .2%;
-  height: 70%;
+  width: .2vw;
+  height: 20vh;
   text-align: left;
   background-image: url();
   background-position: top;
@@ -275,7 +277,7 @@ font-family: 'Acme', sans-serif;
 }
 #book2:nth-child(33) #titles2 {
  font-family: 'Pacifico', cursive;
- font-size: 12px;
+ font-size: .9vw;
  color: #ece4f1;
- margin-bottom: -16px;
+ margin-bottom: -20px;
 }

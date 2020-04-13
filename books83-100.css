@@ -1,6 +1,6 @@
 #book3:nth-child(18) {
-  width: .8%;
-  height: 73%;
+  width: .8vw;
+  height: 20vh;
   text-align: center;
   background-image: url(assets/purplebands.png);
   background-position: right;
@@ -13,14 +13,14 @@
 }
 #book3:nth-child(18) #titles3 {
   font-family: 'Shadows Into Light', cursive;
-  font-size: 15px;
+  font-size: 1.2vw;
   transform: rotate(70deg);
   margin-bottom: -30px;
   color: #eddaf9;
 }
 #book3:nth-child(19) {
-  width: 10%;
-  height: 11%;
+  width: 10vw;
+  height: 4vh;
   text-align: center;
   background-image: url(assets/pinktab.png);
   background-position: left;
@@ -33,15 +33,15 @@
 #book3:nth-child(19) #titles3 {
  font-family: 'IM Fell Great Primer SC', serif;
  transform: rotate(0deg);
- font-size: 15px;
+ font-size: 1.2vw;
  color: #f0dbf8;
  position: fixed;
  left: 43%;
  bottom: -22%;
 }
 #book3:nth-child(20) {
-  width: 10%;
-  height: 11%;
+  width: 10vw;
+  height: 3.3vh;
   text-align: center;
   background-image: url();
   background-position: right;
@@ -54,7 +54,7 @@
 #book3:nth-child(20) #titles3 {
 font-family: 'Josefin Sans', sans-serif;
  transform: rotate(0deg);
- font-size: 12px;
+ font-size: 1vw;
  color: #f3daf5;
  position: fixed;
  left: 55%;
@@ -62,8 +62,8 @@ font-family: 'Josefin Sans', sans-serif;
  text-shadow: none;
 }
 #book3:nth-child(21) {
-  width: 8%;
-  height: 14.5%;
+  width: 8vw;
+  height: 4.3vh;
   text-align: center;
   background-image: url(assets/pinktab.png);
   background-position: right;
@@ -75,7 +75,7 @@ font-family: 'Josefin Sans', sans-serif;
 }
 #book3:nth-child(21) #titles3 {
   font-family: 'Pacifico', cursive;
-  font-size: 15px;
+  font-size: 1.2vw;
   transform: rotate(0deg);
   margin-top: -4px;
   color: #f6def2;
@@ -84,8 +84,8 @@ font-family: 'Josefin Sans', sans-serif;
   bottom: -17%;
 }
 #book3:nth-child(22) {
-  width: 8%;
-  height: 15%;
+  width: 8vw;
+  height: 4.5vh;
   text-align: center;
   background-image: url(assets/mintarrows.png);
   background-position: center;
@@ -97,7 +97,7 @@ font-family: 'Josefin Sans', sans-serif;
 }
 #book3:nth-child(22) #titles3 {
   font-family: 'Dancing Script', cursive;
-  font-size: 20px;
+  font-size: 1.6vw;
   transform: rotate(0deg);
   margin-top: 2px;
   color: #fbdef2;
@@ -106,8 +106,8 @@ font-family: 'Josefin Sans', sans-serif;
   bottom: -13.5%;
 }
 #book3:nth-child(23) {
-  width: .4%;
-  height: 70%;
+  width: .6vw;
+  height: 20vh;
   text-align: center;
   background-image: url(assets/peacharrows.png);
   background-position: center;
@@ -118,14 +118,14 @@ font-family: 'Josefin Sans', sans-serif;
 }
 #book3:nth-child(23) #titles3 {
   font-family: 'Shadows Into Light', cursive;
-  font-size: 16px;
+  font-size: 1.5vw;
   color:#ffdcf1;
-  margin-top: -4px;
+  margin-top: -20px;
   margin-right: -10px;
 }
 #book3:nth-child(24) {
-  width: .3%;
-  height: 73%;
+  width: .3vw;
+  height: 21vh;
   text-align: left;
   background-image: url();
   background-position: top;
@@ -135,13 +135,13 @@ font-family: 'Josefin Sans', sans-serif;
 }
 #book3:nth-child(24) #titles3 {
   font-family: 'Acme', sans-serif;
-  font-size: 18px;
+  font-size: 1.4vw;
   color: #ffdcf1;
   margin-bottom: -20px;
 }
 #book3:nth-child(25) {
-  width: .7%;
-  height: 84%;
+  width: .7vw;
+  height: 28vh;
   text-align: center;
   background-image: url();
   background-position: top;
@@ -151,12 +151,12 @@ font-family: 'Josefin Sans', sans-serif;
 }
 #book3:nth-child(25) #titles3 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 12px;
+  font-size: 1.3vw;
   color: #e3d3ff;
 }
 #book3:nth-child(26) {
-  width: 1%;
-  height: 80%;
+  width: 1vw;
+  height: 26vh;
   text-align: center;
   background-image: url(assets/pinkbanner.png);
   background-position: top;
@@ -166,14 +166,14 @@ font-family: 'Josefin Sans', sans-serif;
 }
 #book3:nth-child(26) #titles3 {
   font-family: 'Alata', sans-serif;
-  font-size: 15px;
+  font-size: 1.2vw;
   color: #e6d3fe;
   margin-bottom: -4px;
   text-shadow: none;
 }
 #book3:nth-child(27) {
-  width: .6%;
-  height: 80%;
+  width: .6vw;
+  height: 23vh;
   text-align: center;
   background-image: url(assets/bluebanner.png);
   background-position: top;
@@ -183,13 +183,13 @@ font-family: 'Josefin Sans', sans-serif;
 }
 #book3:nth-child(27) #titles3 {
   font-family: 'Amarante', cursive;
- font-size: 18px;
+ font-size: 1.3vw;
  color: #e8d4fd;
  margin-bottom: -10px;
 }
 #book3:nth-child(28) {
-  width: .5%;
-  height: 85%;
+  width: .5vw;
+  height: 27vh;
   text-align: center;
   background-image: url(assets/purpletab.png);
   background-position: top;
@@ -199,14 +199,14 @@ font-family: 'Josefin Sans', sans-serif;
 }
 #book3:nth-child(28) #titles3 {
   font-family: 'Anton', cursive;
-  font-size: 14px;
+  font-size: 1.5vw;
   color: #ebd5fc;
   text-shadow: none;
   margin-bottom: -px;
 }
 #book3:nth-child(29) {
-  width: 1%;
-  height: 89%;
+  width: 1vw;
+  height: 28vh;
   text-align: left;
   background-image: url(assets/greenbands.png);
   background-position: bottom;
@@ -215,14 +215,14 @@ font-family: 'Josefin Sans', sans-serif;
   background-color: #e0fddc;
 }
 #book3:nth-child(29) #titles3 {
- margin-bottom: -1px;
- font-size: 15px;
+ margin-bottom: 15px;
+ font-size: 1vw;
  color: #efd6fc;
  text-shadow: none;
 }
 #book3:nth-child(30) {
-  width: 1%;
-  height: 80%;
+  width: 1vw;
+  height: 25vh;
   text-align: left;
   background-image: url();
   background-position: top;
@@ -231,16 +231,16 @@ font-family: 'Josefin Sans', sans-serif;
   background-color: #dafde1;
 }
 #book3:nth-child(30) #titles3 {
- margin-bottom: -22px;
+ margin-bottom: -10px;
  font-family: 'Indie Flower', cursive;
- font-size: 13px;
+ font-size: 1vw;
  color: #f2d7fb;
  text-shadow: none;
 }
 
 #book3:nth-child(31) {
-  width: .4%;
-  height: 70%;
+  width: .4vw;
+  height: 20vh;
   text-align: left;
   background-image: url(assets/perriwinklebars.png);
   background-position: center;
@@ -250,7 +250,7 @@ font-family: 'Josefin Sans', sans-serif;
 }
 #book3:nth-child(31) #titles3 {
   font-family: 'Special Elite', cursive;
-  font-size: 13px;
+  font-size: 1vw;
   color: #f5d6f9;
  margin-bottom: 2px;
  margin-right: -13px;
@@ -258,8 +258,8 @@ font-family: 'Josefin Sans', sans-serif;
  text-shadow: none;
 }
 #book3:nth-child(32) {
-  width: 1.2%;
-  height: 78%;
+  width: 1.2vw;
+  height: 24vh;
   text-align: left;
   background-image: url();
   background-position: top;
@@ -269,14 +269,14 @@ font-family: 'Josefin Sans', sans-serif;
 }
 #book3:nth-child(32) #titles3 {
  font-family: 'Shadows Into Light', cursive;
- font-size: 13px;
+ font-size: 1vw;
  color: #f8d8f9;
  margin-bottom: -20px;
  text-shadow: none;
 }
 #book3:nth-child(33) {
-  width:.7%;
-  height: 65%;
+  width:.7vw;
+  height: 19vh;
   text-align: left;
   background-image: url();
   background-position: top;
@@ -286,13 +286,13 @@ font-family: 'Josefin Sans', sans-serif;
 }
 #book3:nth-child(33) #titles3 {
 font-family: 'Acme', sans-serif;
- font-size: 15px;
+ font-size: 1.2vw;
  color: #fcd9f8;
  margin-bottom: -25px;
 }
 #book3:nth-child(34) {
-  width: .2%;
-  height: 80%;
+  width: .2vw;
+  height: 21vh;
   text-align: center;
   background-image: url(assets/purplebands.png);
   background-position: top;
@@ -301,8 +301,8 @@ font-family: 'Acme', sans-serif;
   background-color: #c0fff8;
 }
 #book3:nth-child(34) #titles3 {
- margin-bottom: -5px;
+ margin-bottom: -25px;
  font-family: 'Montserrat', sans-serif;
- font-size: 15px;
+ font-size: 1.3vw;
  color: #ffd9f7;
 }

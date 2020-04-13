@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Anton|Bangers|Caveat|Indie+Flower|Lobster|Muli|Permanent+Marker|Righteous|Six+Caps|Special+Elite|Zhi+Mang+Xing&display=swap');
 #book1:nth-child(17) {
-  width: 1%;
-  height: 85%;
+  width: 1vw;
+  height: 23vh;
   text-align: center;
   background-image: url(assets/pinktab.png);
   background-position: top;
@@ -11,13 +11,13 @@
 }
 #book1:nth-child(17) #titles1 {
   font-family: 'Anton', cursive;
-  font-size: 13px;
+  font-size: .9vw;
   color: #eaf6da;
   text-shadow: none;
 }
 #book1:nth-child(18) {
-  width: 1%;
-  height: 55%;
+  width: 1vw;
+  height: 14vh;
   text-align: left;
   background-image: url(assets/purplebands.png);
   background-position: bottom;
@@ -27,13 +27,13 @@
 }
 #book1:nth-child(18) #titles1 {
  margin-bottom: -70px;
- font-size: 16px;
+ font-size: 1.3vw;
  color: #f0f8d2;
  text-shadow: none;
 }
 #book1:nth-child(19) {
-  width: 1%;
-  height: 80%;
+  width: 1vw;
+  height: 24vh;
   text-align: left;
   background-image: url();
   background-position: top;
@@ -42,16 +42,16 @@
   background-color: #e2d9fd;
 }
 #book1:nth-child(19) #titles1 {
- margin-bottom: -40px;
+ margin-bottom: -30px;
  font-family: 'Indie Flower', cursive;
- font-size: 15px;
+ font-size: 1.2vw;
  color: #f6f7ce;
  text-shadow: none;
 }
 
 #book1:nth-child(20) {
-  width: .3%;
-  height: 70%;
+  width: .3vw;
+  height: 20vh;
   text-align: left;
   background-image: url(assets/pinktab.png);
   background-position: top;
@@ -61,16 +61,16 @@
 }
 #book1:nth-child(20) #titles1 {
  font-family: 'Special Elite', cursive;
- font-size: 10px;
+ font-size: .7vw;
  color: #fff7c6;
- margin-bottom: 2px;
+ margin-bottom: -10px;
  margin-right: -13px;
  text-align: center;
  text-shadow: none;
 }
 #book1:nth-child(21) {
-  width: .8%;
-  height: 75%;
+  width: .8vw;
+  height: 21vh;
   text-align: left;
   background-image: url();
   background-position: top;
@@ -80,13 +80,13 @@
 }
 #book1:nth-child(21) #titles1 {
  font-family: 'Righteous', cursive;
- font-size: 14px;
+ font-size: 1vw;
  color: #c8f5fa;
  margin-bottom: -30px;
 }
 #book1:nth-child(22) {
-  width: 1%;
-  height: 72%;
+  width: 1vw;
+  height: 18vh;
   text-align: left;
   background-image: url(assets/purplearrows.png);
   background-position: top;
@@ -96,13 +96,13 @@
 }
 #book1:nth-child(22) #titles1 {
   font-family: 'Six Caps', sans-serif;
-  font-size: 25px;
+  font-size: 1.7vw;
   color: #cbf7fa;
   margin-bottom: -65px;
 }
 #book1:nth-child(23) {
-  width: .3%;
-  height: 83%;
+  width: .3vw;
+  height: 23vh;
   text-align: center;
   background-image: url();
   background-position: top;
@@ -111,14 +111,14 @@
   background-color: #f6e1ee;
 }
 #book1:nth-child(23) #titles1 {
- margin-top: 5px;
+ margin-top: 1px;
  font-family: 'Muli', sans-serif;
- font-size: 13px;
+ font-size: 1vw;
  color: #d3f5f1;
 }
 #book1:nth-child(24) {
-  width: 1.3%;
-  height: 93%;
+  width: 1.3vw;
+  height: 28vh;
   text-align: center;
   background-image: url(assets/mintbars.png);
   background-position: right;
@@ -127,12 +127,12 @@
   background-color: #f2ddf2;
 }
 #book1:nth-child(24) #titles1 {
- font-size: 14px;
+ font-size: 1.2vw;
  color: #d8f4eb;
 }
 #book1:nth-child(25) {
-  width: .2%;
-  height: 70%;
+  width: .2vw;
+  height: 18vh;
   text-align: left;
   background-image: url();
   background-position: top;
@@ -142,14 +142,14 @@
 }
 #book1:nth-child(25) #titles1 {
   font-family: 'Anton', sans-serif;
-  font-size: 15px;
+  font-size: 1.2vw;
   color: #def5e6;
   margin-bottom: -65px;
   text-shadow: none;
 }
 #book1:nth-child(26) {
-  width: 1%;
-  height: 75%;
+  width: 1vw;
+  height: 22vh;
   text-align: left;
   background-image: url(assets/pinkbanner.png);
   background-position: top;
@@ -159,14 +159,14 @@
 }
 #book1:nth-child(26) #titles1 {
   font-family: 'Lobster', cursive;
-  font-size: 20px;
+  font-size: 1.5vw;
   color: #e4f6e2;
   margin-bottom: -45px;
   text-shadow: none;
 }
 #book1:nth-child(27) {
-  width: .1%;
-  height: 84%;
+  width: .1vw;
+  height: 24vh;
   text-align: left;
   background-image: url();
   background-position: top;
@@ -176,13 +176,13 @@
 }
 #book1:nth-child(27) #titles1 {
   font-family: 'Zhi Mang Xing', cursive;
-  font-size: 18px;
+  font-size: 1.2vw;
   color: #ebf2de;
   margin-bottom: -30px;
 }
 #book1:nth-child(28) {
-  width: .3%;
-  height: 95%;
+  width: .3vw;
+  height: 27vh;
   text-align: center;
   background-image: url(assets/bluebanner.png);
   background-position: top;
@@ -192,14 +192,14 @@
 }
 #book1:nth-child(28) #titles1 {
  font-family: 'Righteous', cursive;
- font-size: 10px;
+ font-size: .8vw;
  color: #f1f4d6;
  margin-bottom: 10px;
  text-shadow: none;
 }
 #book1:nth-child(29) {
-  width: .2%;
-  height: 50%;
+  width: .2vw;
+  height: 15vh;
   text-align: left;
   background-image: url(assets/purplebars.png);
   background-position: top;
@@ -209,14 +209,14 @@
 }
 #book1:nth-child(29) #titles1 {
  font-family: 'Permanent Marker', cursive;
- font-size: 16px;
+ font-size: 1.4vw;
  color: #f6f4d2;
  margin-bottom: -100px;
  text-shadow: none;
 }
 #book1:nth-child(30) {
-  width: 1%;
-  height: 75%;
+  width: 1vw;
+  height: 22vh;
   text-align: left;
   background-image: url(assets/perriwinklebars.png);
   background-position: center;
@@ -226,14 +226,14 @@
 }
 #book1:nth-child(30) #titles1 {
  font-family: 'Special Elite', cursive;
- font-size: 17px;
+ font-size: 1.3vw;
  color: #fff3cb;
  margin-bottom: -20px;
  text-shadow: none;
 }
 #book1:nth-child(31) {
-  width: .2%;
-  height: 82%;
+  width: .2vw;
+  height: 24vh;
   text-align: left;
   background-image: url(assets/pinktab.png);
   background-position: top;
@@ -243,13 +243,13 @@
 }
 #book1:nth-child(31) #titles1 {
  font-family: 'Caveat', cursive;
- font-size: 16px;
+ font-size: 1.2vw;
  color: #cbf1fa;
  margin-bottom: -70px;
 }
 #book1:nth-child(32) {
-  width: .1%;
-  height: 70%;
+  width: .1vw;
+  height: 20vh;
   text-align: center;
   background-image: url(assets/purplebands.png);
   background-position: bottom;
@@ -261,12 +261,12 @@
  margin-bottom: -10px;
  margin-top: -21px;
  font-family: 'Zhi Mang Xing', cursive;
- font-size: 14px;
+ font-size: 1vw;
  color: #cef3f5;
 }
 #book1:nth-child(33) {
-  width: .1.2%;
-  height: 85%;
+  width: 1.2vw;
+  height: 26vh;
   text-align: right;
   background-image: url();
   background-position: center;
@@ -278,6 +278,6 @@
  margin-bottom: -40px;
  margin-top: -21px;
  font-family: 'Righteous', cursive;
- font-size: 13px;
+ font-size: 1.1vw;
  color: #d6f1f2;
 }

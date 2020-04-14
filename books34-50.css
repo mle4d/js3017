@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Acme|Alata|Amarante|Dancing+Script|IM+Fell+Great+Primer+SC|Josefin+Sans|Montserrat|Pacifico|Shadows+Into+Light&display=swap');
 #book2:nth-child(1) {
   /* width: 1.2vw; */
-  height: 25vh;
+  height: 27vh;
   text-align: right;
   background-image: url();
   background-position: center;
@@ -10,7 +10,7 @@
   background-color: #f1e2ed;
 }
 #book2:nth-child(1) #titles2 {
-  margin-top: 5px; 
+  /* margin-top: 2px;  */
   font-family: 'Montserrat', sans-serif;
   /* font-size: 1vw; */
   color: #daf1ed;

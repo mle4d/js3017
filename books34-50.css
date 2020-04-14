@@ -10,7 +10,7 @@
   background-color: #f1e2ed;
 }
 #book2:nth-child(1) #titles2 {
-  margin-top: 10px; 
+  /* margin-top: 10px;  */
   font-family: 'Montserrat', sans-serif;
   /* font-size: 1vw; */
   color: #daf1ed;
@@ -18,7 +18,7 @@
  #book2:nth-child(2) {
   /* width: .3vw; */
   height: 19vh;
-  text-align: left;
+  text-align: center;
   background-image: url(assets/peacharrows.png);
   background-position: bottom;
   background-size: 120%; 
@@ -27,7 +27,7 @@
 }
 #book2:nth-child(2) #titles2 {
  font-family: 'Alata', sans-serif;
- margin-bottom: -40px;
+ margin-bottom: -20px;
  /* font-size: 1.3vw; */
  color: #e0f1ea;
 }

@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Anton|Bangers|Caveat|Indie+Flower|Lobster|Muli|Permanent+Marker|Righteous|Six+Caps|Special+Elite|Zhi+Mang+Xing&display=swap');
-/* book one */
+
 #book1:nth-child(1) {
   height: 25vh;
   text-align: center;
@@ -40,13 +40,11 @@
 #book1:nth-child(3) #titles1 {
  margin-bottom: -40px;
  font-family: 'Indie Flower', cursive;
- /* font-size: 2vmin; */
  color: #cdfeed;
  text-shadow: none;
 }
-/* book4 */
+
 #book1:nth-child(4) {
-  /* width: .5vw; */
   height: 23vh;
   text-align: center;
   background-image: url(assets/perriwinklebars.png);
@@ -57,15 +55,12 @@
 }
 #book1:nth-child(4) #titles1 {
   font-family: 'Special Elite', cursive;
-  /* font-size: 1.5vmin; */
   color: #d3fde7;
- /* margin-bottom: 4vmax; */
  margin-bottom: -25%;
  text-align: center;
  text-shadow: none;
 }
 #book1:nth-child(5) {
-  /* width: .5vw; */
   height: 21vh;
   text-align: center;
   background-image: url();
@@ -76,14 +71,8 @@
   line-height: 8px;
   color: #dafde1;
 }
-/* #book1:nth-child(5) #titles1 {
- font-family: 'Righteous', cursive; */
- /* font-size: 1vw; */
- /* color: #dafde1;
- margin-bottom: -40px;
-} */
+
 #book1:nth-child(6) {
-  /* width: .5vw; */
   height: 23vh;
   text-align: center;
   background-image: url(assets/pinkbanner.png);
@@ -96,9 +85,7 @@
   letter-spacing: 5px;
 }
 #book1:nth-child(6) #titles1 {
-  /* margin-top: 1vh; */
   font-family: 'Special Elite', cursive;
-  /* font-size: .7vw; */
   color: #effbce;
   text-shadow: none;
  }
@@ -111,14 +98,11 @@
   background-color: #ebd5fc;
 }
 #book1:nth-child(7) #titles1 {
- /* margin-top: 1vh; */
  font-family: 'Special Elite', cursive;
- /* font-size: .7vw; */
  color: #effbce;
  text-shadow: none;
 }
 #book1:nth-child(8) {
-  /* width: .5vw; */
   height: 21vh;
   text-align: center;
   background-image: url(assets/pinkbanner.png);
@@ -129,12 +113,10 @@
 }
 #book1:nth-child(8) #titles1 {
  margin-top: 1px;
- /* font-size: 1.2vw; */
  color: #fffbce;
  text-shadow: none;
 }
 #book1:nth-child(9) {
-  /* width: .5vw; */
   height: 21vh;
   text-align: center;
   background-image: url();
@@ -145,13 +127,11 @@
 }
 #book1:nth-child(9) #titles1 {
   font-family: 'Anton', sans-serif;
-  /* font-size: .5vw; */
   color: #f5fbc9;
   margin-top: 1px;
   text-shadow: none;
 }
 #book1:nth-child(10) {
-  /* width: 1vw; */
   height: 20vh;
   text-align: left;
   background-image: url();
@@ -162,13 +142,11 @@
 }
 #book1:nth-child(10) #titles1 {
   font-family: 'Lobster', cursive;
-  /* font-size: 1.2vw; */
   color: #fffac0;
   margin-bottom: -40px;
   text-shadow: none;
 }
 #book1:nth-child(11) {
-  /* width: .7vw; */
   height: 24vh;
   text-align: left;
   background-image: url();
@@ -179,13 +157,11 @@
 }
 #book1:nth-child(11) #titles1 {
   font-family: 'Zhi Mang Xing', cursive;
-  /* font-size: 1.8vw; */
   color: #c4f9f9;
   margin-bottom: -30px;
   text-shadow: none;
 }
 #book1:nth-child(12) {
-  /* width: 1.8vw; */
   height: 22vh;
   text-align: left;
   background-image: url(assets/purplearrows.png);
@@ -201,7 +177,6 @@
  margin-bottom: -30px;
 }
 #book1:nth-child(13) {
-  /* width: .6vw; */
   height: 18vh;
   text-align: left;
   background-image: url(assets/purplebars.png);
@@ -212,13 +187,11 @@
 }
 #book1:nth-child(13) #titles1 {
  font-family: 'Permanent Marker', cursive;
- /* font-size: 1.5vw; */
  color: #d0faef;
  margin-bottom: -70px;
  text-shadow: none;
 }
 #book1:nth-child(14) {
-  /* width: 1vw; */
   height: 26vh;
   text-align: left;
   background-image: url();
@@ -229,12 +202,10 @@
 }
 #book1:nth-child(14) #titles1 {
  font-family: 'Special Elite', cursive;
- /* font-size: 1.2vw; */
  color: #d6f9e9;
  margin-bottom: -10px;
 }
 #book1:nth-child(15) {
-  /* width: 1.5vh; */
   height: 15vh;
   text-align: left;
   background-image: url();
@@ -245,14 +216,12 @@
 }
 #book1:nth-child(15) #titles1 {
  font-family: 'Caveat', cursive;
- /* font-size: 1.3vw; */
  line-height: 10px;
  color: #dcf9e4;
  margin-bottom: -80px;
  text-shadow: none;
 }
 #book1:nth-child(16) {
-  /* width: .1vw; */
   height: 18vh;
   text-align: center;
   background-image: url(assets/peacharrows.png);

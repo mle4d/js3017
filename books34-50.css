@@ -10,7 +10,7 @@
   background-color: #f1e2ed;
 }
 #book2:nth-child(1) #titles2 {
-  /* margin-top: 2px;  */
+  margin-top: 10px; 
   font-family: 'Montserrat', sans-serif;
   /* font-size: 1vw; */
   color: #daf1ed;
